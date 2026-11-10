@@ -1,0 +1,75 @@
+{
+ "zi": "11-14",
+ "pomeniri": [
+  "Sfântul Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
+  "✝) Sfântul Apostol Filip, unul dintre cei 12 Apostoli",
+  "Sfinții Cuvioși Palamiți: părinții Sfântului Ierarh Grigorie Palama, Constanțiu și Caloni (Cali), frații săi, Teodosie și Macarie, și surorile lui, Epiharia și Teodota",
+  "Sfântul Noul Mucenic Constantin din Rodos"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Apostol Filip",
+   "glas": 3,
+   "podobie": "",
+   "text": "Apostole Sfinte Filip, roagă pe Milostivul Dumnezeu să dăruiască iertare de greșeli sufletelor noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-apostol-filip",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
+   "glas": 8,
+   "podobie": "",
+   "text": "Luminătorule al dreptei credințe, sprijinul Bisericii și învățătorule, podoaba monahilor, apărătorule cel nebiruit al teologilor, făcătorule de minuni, Grigorie, lauda Tesalonicului, propovăduitorule al harului, roagă-te pururea să se mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-grigorie-palama-arhiepiscopul-tesalonicului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Apostol Filip",
+   "glas": 8,
+   "podobie": "Ca pe o pârgă a firii…",
+   "text": "Ucenicul și prietenul Tău și următorul Patimii Tale, de Dumnezeu grăitorul Apostol Filip, lumii pe Tine Te-a propovăduit. Pentru ale cărui rugăciuni, păzește de vrăjmașii cei fărădelege Biserica Ta și cetatea Ta, pentru Născătoarea de Dumnezeu, mult Milostive.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-apostol-filip",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
+   "glas": 8,
+   "podobie": "",
+   "text": "Pe tine, organul înțelepciunii, cel sfințit trâmbița și dumnezeiesc, cuvântării de Dumnezeu cea strălucită, cu un glas te lăudăm, Grigorie de Dumnezeu grăitorule. Ci, ca cel ce stai ca o minte înaintea Minții celei dintâi, către Dânsul îndreptează mintea noastră, Părinte Grigorie, ca să strigăm ție: Bucură-te, propovăduitorule al harului!",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-grigorie-palama-arhiepiscopul-tesalonicului",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Cuvioși Palamiți",
+   "glas": null,
+   "podobie": "",
+   "text": "Kalonicea, cu buni copii, și Constanțiu cel cu cuget bun, mare nevoitorule, văzătorule de Dumnezeu, ierarhe, Epiharis, mireasa lui Hristos, Cuvioasa Teodota cea înțeleaptă, Teodosie și Macarie sfințite, vă cântăm nevoințele voastre. Slavă Celui ce v-a-ncununat, slavă Celui ce v-a strălucit lumina necreată și pururea fiitoare a îndumnezeirii.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-cuviosi-palamiti",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Grigorie Palama",
+   "glas": 4,
+   "podobie": "",
+   "text": "Îndură-te cu milostivire spre noi, fiii tăi, cei ce stăm înaintea raclei cu moaștele tale și din suflet îndurerat ne rugăm ție și strigăm, zicând: Primește rugăciunile noastre și le înalță către Ziditorul tuturor, Sfinte Grigorie; nu ne lăsa neajutorați pe noi, cei ce te-am dobândit mijlocitor bine-primit.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-grigorie-palama",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Grigorie Palama",
+   "glas": 2,
+   "podobie": "Ceea ce ești folositoare…",
+   "text": "Ocrotire te-am dobândit în ispite și te-am pus înainte mijlocitor către Făcătorul, noi, cei osândiți și vinovați de multe rele, iar acum grăbește, dumnezeiescule Părinte, spre ajutorul nostru, al celor ce fierbinte strigăm ție: Sârguiește spre mijlocire și izbăvește de tot felul de patimi întreaga ta turmă cuvântătoare, care se roagă ție.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-grigorie-palama",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

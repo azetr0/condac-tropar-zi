@@ -1,0 +1,58 @@
+{
+ "zi": "11-12",
+ "pomeniri": [
+  "✝) Sfinții Martiri și Mărturisitori Năsăudeni: Atanasie Todoran din Bichigiu, Vasile din Mocod, Grigore din Zagra și Vasile din Telciu",
+  "Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei",
+  "Sfântul Cuvios Nil Pustnicul",
+  "Sfântul Cuvios Nil Athonitul",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Milostiva”"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Martir Atanasie Todoran",
+   "glas": 1,
+   "podobie": "",
+   "text": "Luptător pentru credință și neam, biruitor al potrivnicilor lui Hristos și apărător neînfricat al Ortodoxiei, ai odrăslit în Țara Năsăudului, primind cu bărbăție moarte de martir. Pentru aceasta, nimicind amăgirile asupritorilor, ai câștigat cununa cea neveștejită a sfințeniei. Fericite Atanasie, roagă-L pe Hristos Dumnezeu să miluiască și să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-martir-atanasie-todoran",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ioan cel Milostiv, Patriarhul Alexandriei",
+   "glas": 8,
+   "podobie": "",
+   "text": "Întru răbdarea ta, ți-ai agonisit plata ta, Părinte Cuvioase, întru rugăciuni neîncetat stăruind, ci te roagă lui Hristos Dumnezeu, Ioane Milostive fericite, să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ioan-cel-milostiv-patriarhul-alexandriei",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Ioan cel Milostiv, Patriarhul Alexandriei",
+   "glas": 2,
+   "podobie": "Cele de sus căutând…",
+   "text": "Bogăția ta o ai împărțit săracilor și cerească bogăție acum ai luat, Sfinte Ioan, Preaînțelepte. Pentru aceasta toți pe tine te cinstim, săvârșind pomenirea ta, o, cel asemenea cu milostenia numit.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-ioan-cel-milostiv-patriarhul-alexandriei",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Nil Pustnicul",
+   "glas": 8,
+   "podobie": "",
+   "text": "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor și cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; și te-ai făcut luminător lumii, strălucind cu minunile, Nil, părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-nil-pustnicul",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Nil Pustnicul",
+   "glas": 8,
+   "podobie": "Apărătoare Doamnă…",
+   "text": "Zburdările cele aprinzătoare de patimi de la trup despărțindu-le, Sfinte Nil, Fericite, cu veghetoare rugăciunea ta le-ai tăiat. Ci, ca cel ce ai îndrăzneală către Domnul, scapă-mă din toate primejdiile, ca să strig ție: Bucură-te, părinte a toată lumea!",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-nil-pustnicul",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

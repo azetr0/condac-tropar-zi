@@ -1,0 +1,78 @@
+{
+ "zi": "11-11",
+ "pomeniri": [
+  "✝ Sfântul Mare Mucenic Mina",
+  "Sfântul Cuvios Teodor Studitul",
+  "Sfântul Mucenic Victor",
+  "Sfântul Mucenic Vichentie",
+  "Sfântul Ștefan de la Decani, regele Serbiei",
+  "Sfânta Muceniță Ștefanida",
+  "Sfântul Cuvios Martirie din Zelenesk"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mare Mucenic Mina, al Sfinților Mucenici Victor și Vichentie și al Sfintei Mucenițe Ștefanida",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mucenicii Tăi, Doamne, întru nevoințele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mare-mucenic-mina-al-sfintilor-mucenici-victor-vichentie-al-sfintei-mucenite",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Teodor Studitul",
+   "glas": 8,
+   "podobie": "",
+   "text": "Îndreptătorule al Ortodoxiei, învățătorule al dreptei cinstiri de Dumnezeu și al curăției și luminătorule al lumii, podoaba călugărilor cea de Dumnezeu insuflată Sfinte Părinte Teodor, înțelepte, cu învățăturile tale pe toți i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-teodor-studitul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mare Mucenic Mina",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Din oastea cea vremelnică te-a răpit și părtaș celei nestricăcioase te-a arătat pe tine, purtătorule de chinuri, Sfinte Mare Mucenice Mina, Hristos Dumnezeul nostru, Cel Ce este pentru toți mucenicii cunună nestricăcioasă.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mare-mucenic-mina",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Teodor Studitul",
+   "glas": 2,
+   "podobie": "Cele de sus căutând…",
+   "text": "Viața ta cea singuratică și întocmai cu îngerii, cu vitejești lupte ai luminat-o și împreună cu îngerii locuitor, de Dumnezeu Fericite Teodor, te-ai făcut, cu care împreună lui Hristos Dumnezeu roagă-te neîncetat pentru noi toți.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-teodor-studitul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mare Mucenic Mina",
+   "glas": null,
+   "podobie": "",
+   "text": "Mucenicul Tău, Doamne, Mina întru nevoința sa, cununa nestricăciunii a luat de la Tine, Dumnezeul nostru, că având puterea Ta, pe chinuitori a învins, zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mare-mucenic-mina",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mare Mucenic Mina",
+   "glas": 4,
+   "podobie": "",
+   "text": "Ca pe cel ce ești împreună vorbitor cu cei fără de trup și cu purtătorii de nevoință împreună petrecător, adunându-ne cu credință, te lăudăm pe tine, Sfinte Mare Mucenice Mina, cerând pace lumii și sufletelor noastre mare milă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mare-mucenic-mina-0",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Teodor Studitul",
+   "glas": 8,
+   "podobie": "Apărătoare Doamnă…",
+   "text": "Luminătorul Bisericii cel prealuminat și povățuitorul monahilor cel de Dumnezeu preainsuflat, să se încununeze acum cu flori de cântări, alăuta Mângâietorului cea Dumnezeiește glăsuitoare, turnul cel neclintit al Ortodoxiei și să audă: Bucură-te, Părinte Teodor!",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-teodor-studitul-0",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}
