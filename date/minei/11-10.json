@@ -1,0 +1,96 @@
+{
+ "zi": "11-10",
+ "pomeniri": [
+  "✝) Sfântul Cuvios Mucenic Visarion de la Lainici",
+  "Sfântul Cuvios Arsenie Capadocianul",
+  "Sfântul Apostol Sosipatru",
+  "Sfântul Apostol Erast",
+  "Sfântul Apostol Olimp",
+  "Sfântul Apostol Rodion",
+  "Sfântul Mucenic Orest"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Mucenic Visarion de la Lainici",
+   "glas": null,
+   "podobie": "",
+   "text": "Minunată lucrare ai arătat în Mănăstirea Lainici, Sfinte Părinte Visarion, prin postire, priveghere și rugăciune, prin iubirea desăvârșită de Dumnezeu și de semeni, făcător de minuni arătându-te. Iar, pătimind de la cei rău-credincioși cu slavă te-ai încununat în ceruri. Pentru aceasta, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-mucenic-visarion-de-la-lainici",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Apostoli Olimp, Rodion, Sosipatru, Erast, Terțiu și Cvart",
+   "glas": 3,
+   "podobie": "",
+   "text": "Sfinților Apostoli, rugați pe Milostivul Dumnezeu ca să dea iertare de greșeli sufletelor noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-apostoli-olimp-rodion-sosipatru-erast-tertiu-cvart",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Mucenic Visarion de la Lainici",
+   "glas": 8,
+   "podobie": "Apărătoare Doamnă…",
+   "text": "Pe pătimitorul pentru iubirea lui Dumnezeu, pe învățătorul rugăciunii celei curate, pe Cuviosul stareț Visarion de la Lainici, cel ce împreună tuturor daruri din milostivire, să-l lăudăm, strigându-i din inimă: Bucură-te, Sfinte Părinte Visarion, lauda monahilor și podoaba mărturisitorilor!",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-mucenic-visarion-de-la-lainici",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților Apostoli Olimp, Rodion, Sosipatru, Erast, Terțiu și Cvart",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi lumii…",
+   "text": "Arătatu-s-a astăzi cinstită prăznuirea Apostolilor, dând în chip vădit iertare de greșeli tuturor celor ce săvârșesc pomenirea lor.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-apostoli-olimp-rodion-sosipatru-erast-tertiu-cvart",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Arsenie Capadocianul",
+   "glas": 3,
+   "podobie": "",
+   "text": "Viață plăcută lui Dumnezeu petrecând și vas cinstit Mângâietorului făcându-te, purtătorule de Dumnezeu Arsenie, te-ai arătat și primitor al darului facerii de minuni, tuturor dându-le grabnic ajutor, Părinte Cuvioase, pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-arsenie-capadocianul",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Orest",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mucenicul Tău, Doamne, Orest, întru nevoința sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-orest",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Arsenie Capadocianul",
+   "glas": 5,
+   "podobie": "",
+   "text": "Viețuirii Cuvioșilor întru aceste vremuri de apoi urmând, Părinte Arsenie, te-ai umplut de darurile Duhului celui dumnezeiesc și însuți făcându-te lucrător de minuni, de Dumnezeu purtătorule, belșug de bunătăți de la Dumnezeu dăruiești fiecăruia, cu rugăciunile tale către Domnul.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-arsenie-capadocianul",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Arsenie Capadocianul",
+   "glas": 4,
+   "podobie": "",
+   "text": "Pe floarea cea de curând răsărită a Capadociei și pe vasul cel de mult preț al virtuților, pe Sfințitul Arsenie să îl lăudăm, căci acesta ca un înger în trup petrecând, s-a făcut părtaș tuturor Sfinților, cu care se roagă totdeauna lui Hristos, să ne dăruiască iertare de greșeli.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-arsenie-capadocianul",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților Apostoli Olimp, Rodion, Sosipatru, Erast, Terțiu și Cvart",
+   "glas": 2,
+   "podobie": "Cele de sus căutând…",
+   "text": "Cu Dumnezeiască Lumină mintea luminându-vă, împletiturile ritorilor cu înțelepciune le-ați risipit și toate limbile vânând, măriților Apostoli, Stăpânului le-ați adus, învățându-le să slăvească Dumnezeiasca Treime.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-apostoli-olimp-rodion-sosipatru-erast-tertiu-cvart-0",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}
