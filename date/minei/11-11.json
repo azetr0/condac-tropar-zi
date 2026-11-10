@@ -9,6 +9,11 @@
   "Sfânta Muceniță Ștefanida",
   "Sfântul Cuvios Martirie din Zelenesk"
  ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu",
+  "litie": true
+ },
  "imne": [
   {
    "tip": "tropar",
