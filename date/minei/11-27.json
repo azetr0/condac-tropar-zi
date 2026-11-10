@@ -10,6 +10,9 @@
   "Cinstirea Sfintei Icoanei a Maicii Domnului „a Semnului” (a Rădăcinii din Kursk)"
  ],
  "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
  "imne": [
   {
    "tip": "tropar",

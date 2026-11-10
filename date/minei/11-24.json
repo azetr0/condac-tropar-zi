@@ -5,6 +5,9 @@
   "Sfântul Sfințit Mucenic Petru, Episcopul Alexandriei"
  ],
  "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
  "imne": [
   {
    "tip": "tropar",

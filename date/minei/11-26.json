@@ -7,6 +7,9 @@
   "Cinstirea Sfintei Icoanei a Maicii Domnului „a Sfântului Ioan Damaschin” (Trihirussa)"
  ],
  "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
  "imne": [
   {
    "tip": "tropar",

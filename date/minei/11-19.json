@@ -8,6 +8,9 @@
   "Cinstirea Sfintei Icoane a Maicii Domnului „Mângâierea celor necăjiți și întristați”"
  ],
  "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
  "imne": [
   {
    "tip": "tropar",

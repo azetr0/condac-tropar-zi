@@ -7,6 +7,9 @@
   "Odovania Praznicului Intrării în Biserică a Maicii Domnului"
  ],
  "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
  "imne": [
   {
    "tip": "tropar",

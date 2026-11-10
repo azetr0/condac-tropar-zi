@@ -8,6 +8,9 @@
   "Cinstirea Sfintei Icoanei a Maicii Domnului „Milostiva”"
  ],
  "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
  "imne": [
   {
    "tip": "tropar",

@@ -7,6 +7,9 @@
   "Sfântul Mucenic Roman diaconul"
  ],
  "cruce": "neagra",
+ "slujba": {
+  "fel": "rand"
+ },
  "imne": [
   {
    "tip": "tropar",

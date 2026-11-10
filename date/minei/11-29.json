@@ -9,6 +9,9 @@
   "✝) Duminica a 30-a după Rusalii (Dregătorul bogat – Păzirea poruncilor)"
  ],
  "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
  "imne": [
   {
    "tip": "tropar",

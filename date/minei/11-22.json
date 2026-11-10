@@ -9,6 +9,9 @@
   "✝) Duminica a 26-a după Rusalii (Pilda bogatului căruia i-a rodit țarina)"
  ],
  "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
  "imne": [
   {
    "tip": "tropar",

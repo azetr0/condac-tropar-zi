@@ -5,6 +5,9 @@
   "Cinstirea Icoanei Maicii Domnului de la Mahaira Ciprului"
  ],
  "cruce": "rosie",
+ "slujba": {
+  "fel": "priveghere"
+ },
  "imne": [
   {
    "tip": "tropar",

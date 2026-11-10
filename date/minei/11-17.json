@@ -6,6 +6,9 @@
   "Sfântul Ierarh Ghenadie, patriarhul Constantinopolului"
  ],
  "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
  "imne": [
   {
    "tip": "tropar",
