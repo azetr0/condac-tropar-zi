@@ -1,0 +1,105 @@
+{
+ "zi": "11-15",
+ "pomeniri": [
+  "✝) Sfântul Cuvios Paisie de la Neamț",
+  "Sfântul Cuvios Gherman de Alaska",
+  "Sfântul Mucenic Mărturisitor Samona",
+  "Sfântul Mucenic Mărturisitor Gurie",
+  "Sfântul Mucenic Mărturisitor Aviv diaconul",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „de pe Cruce” (Kupiatici)",
+  "✝) Duminica a 25-a după Rusalii (Pilda samarineanului milostiv)"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Paisie de la Neamț",
+   "glas": 4,
+   "podobie": "",
+   "text": "Apărătorule al dreptei credințe și lauda monahilor, Cuvioase Părinte Paisie, din pruncie iubind pe Hristos, ca un alt Avraam ai părăsit patria ta, în Muntele Athosului nevoindu-te; și, adunând ceată de ucenici, te-ai așezat în țara Moldovei cea binecuvântată și Mănăstirea Neamțului rai pământesc ai făcut-o. Pentru aceasta, împreună cu îngerii, nu înceta a te ruga lui Dumnezeu pentru sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-paisie-de-la-neamt",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Mucenici și Mărturisitori Gurie, Samona și Aviv, diaconul",
+   "glas": 5,
+   "podobie": "",
+   "text": "Minunile sfinților Tăi mucenici zid nebiruit ne-ai dăruit nouă, Hristoase Dumnezeule. Pentru rugăciunile lor, sfaturile păgânilor le risipește, sceptrele împărăției le întărește, ca un Bun și de oameni Iubitor.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-mucenici-marturisitori-gurie-samona-aviv-diaconul-0",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Paisie de la Neamț",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Sfântul Cuvios Paisie de la Neamț cheamă la a sa pomenire pe toți fiii săi duhovnicești, dreptcredincioși și monahi, ca să deprindă cu dragoste lucrarea minții și rugăciunea către Dumnezeu, Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-paisie-de-la-neamt-0",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților Mucenici și Mărturisitori Gurie, Samona și Aviv, diaconul",
+   "glas": 2,
+   "podobie": "Căutând cele de sus…",
+   "text": "De sus luând harul, înțelepților, celor din ispite le ajutați, prealăudaților. Pentru aceasta, sfinților, pe tânără din amară moarte o ați scăpat. Că voi sunteți cu adevărat mărirea Edesei și bucurie a lumii.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-mucenici-marturisitori-gurie-samona-aviv-diaconul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Gherman de Alaska",
+   "glas": 2,
+   "podobie": "",
+   "text": "Nevoitorule al pustiirilor nordice și rugător pentru întreaga lume, învățător Ortodoxiei și chip al evlaviei, podoaba Alaskăi și veselia Americii, Sfinte Părinte Gherman, roagă-te pentru noi!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-gherman-de-alaska",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Mucenici și Mărturisitori Gurie, Samona și Aviv, diaconul",
+   "glas": 4,
+   "podobie": "",
+   "text": "Ocrotitorii și apărătorii Edesei, cei ce săvârșiți minuni mari în lume, cei ce pe tânără ați dat-o iarăși în brațele maicii sale și pe călcătorul de lege got l-ați arătat osândit cu dreaptă judecată, cereți pentru noi neîncetat să se mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-mucenici-marturisitori-gurie-samona-aviv-diaconul",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Paisie de la Neamț",
+   "glas": 4,
+   "podobie": "",
+   "text": "Sălășluindu-L pe Hristos în inima ta, Cuvioase Părinte Paisie, te-ai făcut biserică vie a Preasfintei Treimi; că, primind darul cuvântului și al scrierii, pe tineri i-ai învățat și pe bătrâni mai înțelepți i-ai arătat, iar pe cei leneși i-ai îndemnat la lucrarea faptelor bune. Pentru acestea, fericite, roagă-te să se mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-paisie-de-la-neamt-0",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Gherman de Alaska",
+   "glas": 8,
+   "podobie": "",
+   "text": "Icoană a toată făptuirea și contemplarea în Mănăstirea Noul Valaam te-ai arătat, locuitorilor Alaskăi lumina Evangheliei revărsându-o, cel de-o-minte cu Apostolii, Gherman fericite; și acum, solește către Domnul să risipească întunericul patimilor noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-gherman-de-alaska-0",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Gherman de Alaska",
+   "glas": 8,
+   "podobie": "Apărătoarei Doamne…",
+   "text": "Flacăra credinței sălășluindu o în inimă, și de focul părtășiei împăratului a toate arzând nemistuit, în Alaska ai topit gheața sufletelor, Sfinte, următorul isihaștilor și slăvite propovăduitorule, pentru care strigăm ție: Bucură-te, Cuvioase Gherman, luceafărul Americii.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-gherman-de-alaska",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Paisie de la Neamț",
+   "glas": 8,
+   "podobie": "",
+   "text": "Pe Cuviosul Paisie de la Neamț, vasul cel ales al Duhului Sfânt, pe părintele Filocaliei românești și dascălul cel cu mulți ucenici, care a hrănit pe toți cu învățăturile Sfintelor Evanghelii, înnoind multe mănăstiri, să-l lăudăm astăzi după cuviință, cântându-i împreună cu cetele cerești: Bucură-te, Cuvioase Părinte Paisie, lauda Moldovei și cununa Cuvioșilor!",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-paisie-de-la-neamt",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

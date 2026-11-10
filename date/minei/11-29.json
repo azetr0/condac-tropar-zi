@@ -1,0 +1,41 @@
+{
+ "zi": "11-29",
+ "pomeniri": [
+  "Sfântul Sfințit Mucenic Filumen de la Fântâna lui Iacov",
+  "Sfântul Sfințit Mucenic Aviv, Episcop de Nekresi, Georgia",
+  "Sfântul Mucenic Filumen",
+  "Sfântul Mucenic Paramon",
+  "Sfântul Cuvios Acachie",
+  "✝) Duminica a 30-a după Rusalii (Dregătorul bogat – Păzirea poruncilor)"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Paramon",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mucenicul Tău, Doamne, Paramon, întru nevoința sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-paramon",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mucenic Paramon",
+   "glas": 4,
+   "podobie": "Cel Ce Te-ai Înălțat pe Cruce…",
+   "text": "Cu răbdarea Dumnezeieștilor Porunci ți-ai curățit sufletul de spurcăciuni și către săvârșirea pătimirii ai ajuns. Că te-ai lepădat a jertfi idolilor celor înșelători și urmând lui Hristos, cu sulița ai fost împus. Dar cu osârdie roagă-te pentru lume, Preafericite Paramon.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-paramon",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Noulul Sfințit Mucenic Filumen",
+   "glas": null,
+   "podobie": "",
+   "text": "Pe Cel împreună fără de început Ieșit din insula Cipru, ai venit la Sion, mucenicind la fântâna lui Iacov și primind tăierea capului și a degetelor. Iar cortul tău Hristos făcându-l nestricăcios, l-a arătat fântână de bogate daruri și felurite tămăduiri, sfinte sfințite mucenice Filumen.",
+   "sursa": "https://doxologia.ro/troparul-noulul-sfintit-mucenic-filumen",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

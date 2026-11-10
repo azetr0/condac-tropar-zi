@@ -1,0 +1,27 @@
+{
+ "zi": "11-16",
+ "pomeniri": [
+  "Sfântul Apostol și Evanghelist Matei"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Apostol și Evanghelist Matei",
+   "glas": 3,
+   "podobie": "",
+   "text": "Apostole Sfinte și Evanghelist Matei, roagă pe Milostivul Dumnezeu, ca să dea iertare de greșeli sufletelor noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-apostol-evanghelist-matei",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Apostol și Evanghelist Matei",
+   "glas": 2,
+   "podobie": "Cel Ce Te-ai Înălțat…",
+   "text": "Jugul vămii lepădând, la jugul dreptății te-ai lipit și te-ai arătat neguțător întru toate ales, bogăție adunând înțelepciunea cea din înălțime. Pentru aceasta ai propovăduit cuvântul adevărului și ai ridicat sufletele celor trândavi, arătând în scris ceasul judecății.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-apostol-evanghelist-matei",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

@@ -1,0 +1,39 @@
+{
+ "zi": "11-30",
+ "pomeniri": [
+  "✝) Sfântul Apostol Andrei, cel Întâi Chemat, Ocrotitorul României",
+  "✝) Sfântul Ierarh Andrei Șaguna, Mitropolitul Transilvaniei",
+  "Sfântul Vakhtang Gorgasali, regele Georgiei",
+  "Sfântul Ierarh Frumențiu, Episcopul Etiopiei"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Apostol Andrei, cel Întâi Chemat, Ocrotitorul României",
+   "glas": 4,
+   "podobie": "",
+   "text": "Ca cel decât Apostolii mai întâi chemat și verhovnicului frate adevărat, Stăpânului tuturor Andrei, roagă-te pace lumii să dăruiască și sufletelor noastre mare milă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-apostol-andrei-cel-intai-chemat-ocrotitorul-romaniei",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Apostol Andrei, cel Întâi Chemat, Ocrotitorul României",
+   "glas": 2,
+   "podobie": "Pe cea întru rugăciuni…",
+   "text": "Pe grăitorul de Dumnezeu cel cu numele de bărbăție numit și cel mai întâi chemat dintre ucenicii Mântuitorului, pe fratele lui Petru să-l lăudăm. Că precum de demult acestuia și nouă acum a strigat: veniți, aflat-am pe Cel Dorit.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-apostol-andrei-cel-intai-chemat-ocrotitorul-romaniei",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Sărbătoarea Aducerii moaștelor Sfântului Apostol Andrei la Iași",
+   "glas": 1,
+   "podobie": "",
+   "text": "Fiu al Galileei și frate al lui Petru, dintre pescari în soborul Apostolilor întâi ai fost chemat, Andrei cel minunat, iar de la mormântul tău din Patra chemi popoarele la Dumnezeu și atunci ne-ai umplut de bucurie când în România iarași ai venit, unde pe Hristos Domnul L-ai propovăduit.",
+   "sursa": "https://doxologia.ro/tropar-la-sarbatoarea-aducerii-moastelor-sfantului-apostol-andrei-la-iasi",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

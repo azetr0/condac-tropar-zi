@@ -1,0 +1,48 @@
+{
+ "zi": "11-18",
+ "pomeniri": [
+  "✝) Sfântul Cuvios Nectarie Protopsaltul de la Prodromu",
+  "Sfântul Mucenic Platon",
+  "Sfântul Mucenic Zaheu diaconul",
+  "Sfântul Mucenic Roman diaconul"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Nectarie Protopsaltul",
+   "glas": 3,
+   "podobie": "",
+   "text": "Sfinte Nectarie, chemând în inimă cu înțelegere numele Domnului, te-ai luminat și te-ai sfințit în liniștea din pustie. Glasul tău a bucurat plinătatea Bisericii, iar prin osteneala ta moștenire sfântă ne-ai dat, prin care te cinstim, Cuvioase, și cerem a ta rugăciune.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-nectarie-protopsaltul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Platon și al Sfântul Mucenic Roman, diaconul",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mucenicii Tăi, Doamne, întru nevoințele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-platon-al-sfantul-mucenic-roman-diaconul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mucenic Platon",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Sfântă pomenirea ta lumea veselește, chemând pe toți în preacinstită biserica ta, unde acum cu bucurie adunându-ne, cântăm cu cântări și cu luminări. Pentru aceasta, Sfinte Platon, strigăm: izbăvește de vrăjmași pe poporul tău, sfinte.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-platon",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mucenic Roman, diaconul",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Ca pe o stea preamare câștigându-te pe tine Biserica, Prealăudate Mucenice Roman, se luminează cu adevărat cu pătimirile tale, mărind pomenirea ta cea purtătoare de lumină.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-roman-diaconul",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

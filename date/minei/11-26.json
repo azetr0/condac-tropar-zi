@@ -1,0 +1,57 @@
+{
+ "zi": "11-26",
+ "pomeniri": [
+  "Sfântul Cuvios Stelian Paflagonul",
+  "Sfântul Cuvios Nicon",
+  "Sfântul Cuvios Alipie Stâlpnicul",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „a Sfântului Ioan Damaschin” (Trihirussa)"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Alipie Stâlpnicul",
+   "glas": 1,
+   "podobie": "",
+   "text": "Al răbdării stâlp ai fost, râvnind părinților celor mai dinainte, cuvioase, Sfântului Iov întru patimi, Sfântului Iosif întru ispite și vieții celor fără de trup, fiind în trup, Sfinte Alipie, părintele nostru. Roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-alipie-stalpnicul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Nicon",
+   "glas": 3,
+   "podobie": "",
+   "text": "Se bucură Lacedemonia având sfânta raclă a moaștelor tale, care izvorăște izvoare de tămăduiri și mântuiește din nevoi pe toți cei ce aleargă la tine cu credință, Părinte Nicon, Cuvioase. Pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-nicon",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Alipie Stâlpnicul",
+   "glas": 8,
+   "podobie": "Ca o pârgă a firii…",
+   "text": "Ca un temei al faptelor bune și împodobire a sihaștrilor, Biserica te mărește pe tine astăzi și te laudă, Sfinte Alipie. Cu rugăciunile tale, dă celor ce cinstesc din dragoste vitejiile și luptele tale, scăpare din cumplite greșeli, ca cel ce ești cu numele neîntristării numit.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-alipie-stalpnicul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Nicon",
+   "glas": 6,
+   "podobie": "Plinind rânduiala…",
+   "text": "Vieții îngerești urmând, cele frumoase ale lumii ca niște gunoaie le-ai socotit, cărarea pocăinței arătându-ne nouă, de Dumnezeu purtătorule Părinte Nicon, Cuvioase. Pentru aceasta pe tine te cinstim, săvârșind acum pomenirea ta. Că ești cu adevărat izvorul tămăduirilor.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-nicon",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Stelian Paflagonul, ocrotitorul pruncilor",
+   "glas": 8,
+   "podobie": "",
+   "text": "Cu curgerile lacrimilor tale, nerodirea pustiului o ai lucrat, și cu suspinurile tale cele din adânc, spre însutite osteneli o ai făcut roditoare. Și te-ai făcut luminător lumii, strălucind cu minunile, Stelian, Părintele nostru; roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-stelian-paflagonul-ocrotitorul-pruncilor",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

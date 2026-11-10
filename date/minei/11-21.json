@@ -1,0 +1,31 @@
+{
+ "zi": "11-21",
+ "pomeniri": [
+  "(✝) Intrarea în biserică a Maicii Domnului",
+  "Cinstirea Icoanei Maicii Domnului de la Mahaira Ciprului"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Intrării în biserică a Maicii Domnului",
+   "glas": 4,
+   "podobie": "",
+   "text": "Astăzi, înainte însemnarea bunăvoinței lui Dumnezeu și propovăduirea mântuirii oamenilor, în Templul lui Dumnezeu luminat Fecioara se arată și pe Hristos tuturor mai înainte Îl vestește. Acesteia și noi cu mare glas să-i strigăm: Bucură-te, Împlinirea rânduielii Ziditorului.",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-intrarii-biserica-maicii-domnului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Praznicul Intrării în biserică a Maicii Domnului",
+   "glas": 4,
+   "podobie": "Cel Ce Te-ai Înălțat…",
+   "text": "Preacurat Templu al Mântuitorului, Cămara cea de mult preț și Fecioară, Sfințită Vistieria Slavei lui Dumnezeu, astăzi este adusă în Casa Domnului, împreună aducând harul Duhului lui Dumnezeu, pe care o laudă îngerii lui Dumnezeu. Aceasta este Cortul cel Ceresc.",
+   "sursa": "https://doxologia.ro/condac-la-praznicul-intrarii-biserica-maicii-domnului",
+   "principal": true
+  }
+ ],
+ "verificat": true,
+ "nascatoare": {
+  "fel": "fara"
+ }
+}

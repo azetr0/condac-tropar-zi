@@ -1,0 +1,125 @@
+{
+ "zi": "11-22",
+ "pomeniri": [
+  "Sfânta Muceniță Cecilia",
+  "Sfântul Cuvios Iacov Tsalikis",
+  "Sfântul Apostol Onisim",
+  "Sfântul Apostol Filimon și soția sa, Apfia",
+  "Sfântul Apostol Arhip",
+  "✝) Duminica a 26-a după Rusalii (Pilda bogatului căruia i-a rodit țarina)"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Apostoli Filimon, Arhip și Onisim și al celor împreună cu dânșii",
+   "glas": 3,
+   "podobie": "",
+   "text": "Sfinților Apostoli, rugați pe Milostivul Dumnezeu ca să dea iertare de greșeli sufletelor noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-apostoli-filimon-arhip-onisim-al-celor-impreuna-cu-dansii",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Mucenițe Cecilia",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mielușeaua Ta, Iisuse, Cecilia, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un Milostiv, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-mucenite-cecilia",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Intrării în biserică a Maicii Domnului",
+   "glas": 4,
+   "podobie": "",
+   "text": "Astăzi, înainte însemnarea bunăvoinței lui Dumnezeu și propovăduirea mântuirii oamenilor, în Templul lui Dumnezeu luminat Fecioara se arată și pe Hristos tuturor mai înainte Îl vestește. Acesteia și noi cu mare glas să-i strigăm: Bucură-te, Împlinirea rânduielii Ziditorului.",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-intrarii-biserica-maicii-domnului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților Apostoli Filimon, Arhip și Onisim și al celor împreună cu dânșii",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Sfințite Apostole al lui Hristos Filimon, pe cei ce cu credință săvârșesc astăzi preasfântă pomenirea ta, izbăvește-i pe toți de tot felul de ispite și de necazuri.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-apostoli-filimon-arhip-onisim-al-celor-impreuna-cu-dansii",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Mucenițe Cecilia",
+   "glas": 4,
+   "podobie": "Cel Ce Te-ai Înălțat…",
+   "text": "Pe Sfânta Cecilia, care s-a făcut mireasă lui Hristos de bună voie și și-a împodobit inima cu virtuți, cu sfântă cuviință să o lăudăm mulțimea credincioșilor. Că ea a rușinat semeția lui Almachie, strălucind ca soarele în mijlocul celor ce o căutau și după aceea s-a arătat celor de pe pământ Dumnezeiesc sprijin, întărind credința.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-mucenite-cecilia",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Praznicul Intrării în biserică a Maicii Domnului",
+   "glas": 4,
+   "podobie": "Cel Ce Te-ai Înălțat…",
+   "text": "Preacurat Templu al Mântuitorului, Cămara cea de mult preț și Fecioară, Sfințită Vistieria Slavei lui Dumnezeu, astăzi este adusă în Casa Domnului, împreună aducând harul Duhului lui Dumnezeu, pe care o laudă îngerii lui Dumnezeu. Aceasta este Cortul cel Ceresc.",
+   "sursa": "https://doxologia.ro/condac-la-praznicul-intrarii-biserica-maicii-domnului",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Iacov Tsalikis",
+   "glas": 3,
+   "podobie": "",
+   "text": "Sfinte Iacove, mult lăudate, al Eviei crin înmiresmat, din a Treimii Lumină ne ocrotești; tu, dar al Domnului Chip ni-L împărtășești și întunericul inimii risipești; la Hristos tu mijlocind de-a pururea mare milă, în dar să ni se dea.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-iacov-tsalikis-0",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Iacov Tsalikis",
+   "glas": null,
+   "podobie": "",
+   "text": "Pe vlăstarul Libisiului și lauda Eviei, pe cel arătat în vremurile din urmă, al monahilor prieten adevărat. pe Iacob să-l cinstim credincioși pe noul iubitor al Isichei, pe cel ce vindecării dăruiește celor care îl cinstesc cu bună credință și cu Evlavie strigă cu laude. Slavă Lui Hristos, Celui ce te-a slăvit, slavă Celui care minunat te-a arătat, slavă Celui ce te-a sfințit în vremurile din urmă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-iacov-tsalikis",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Apostol Onisim",
+   "glas": 3,
+   "podobie": "",
+   "text": "Apostole Sfinte Onisim, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greșeli sufletelor noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-apostol-onisim",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Apostol Arhip",
+   "glas": 3,
+   "podobie": "",
+   "text": "Apostole Sfinte Arhip, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greșeli sufletelor noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-apostol-arhip",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Apostol Onisim",
+   "glas": null,
+   "podobie": "",
+   "text": "Ca o rază ai ieșit, luminând lumii, fericite, luminat fiind de razele Apostolului Pavel, soarele cel preastrălucitor, care a luminat lumea. Pentru aceasta, toți te cinstim, Sfinte Apostole Onisim.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-apostol-onisim",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Apostol Arhip",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Ca pe o stea mare câștigându-te Biserica pe tine, Fericite Arhip și luminându-se cu razele minunilor tale, strigă către tine: scapă pe cei ce cu credință cinstesc sfântă pomenirea ta.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-apostol-arhip",
+   "principal": false
+  }
+ ],
+ "verificat": true,
+ "nascatoare": {
+  "fel": "fara"
+ }
+}

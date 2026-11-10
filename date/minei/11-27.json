@@ -1,0 +1,33 @@
+{
+ "zi": "11-27",
+ "pomeniri": [
+  "Sfântul Mare Mucenic Iacob Persul",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Abalatsk”",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Țarskoe Selo”",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Korchemnaya”",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Serafim Ponetaevski”",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „a Semnului” din Novgorod",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „a Semnului” (a Rădăcinii din Kursk)"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mare Mucenic Iacob Persul",
+   "glas": 4,
+   "podobie": "",
+   "text": "Cu mucenicia cea neobișnuită și înfricoșătoare și cu vitejiile răbdării, pe toți i-ai minunat, mult pătimitorule, cu tăierea fiecărei părți din trup, rugăciuni de mulțumire preaminunat ai dat către Dumnezeu. Pentru aceasta în pătimirea ta cunună ai luat și te-ai suit către Scaunul Împăratului Ceresc al lui Hristos Dumnezeu, Sfinte Iacov. Pe Acela roagă-L să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mare-mucenic-iacob-persul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mare Mucenic Iacob Persul",
+   "glas": 4,
+   "podobie": "Căutând cele de sus…",
+   "text": "Îndemnat fiind de bună soția ta, ca cel cu suflet răbdător și de înfricoșătoarea judecată temându-te, porunca perșilor și îngrozirea ai surpat-o, Sfinte Iacov și te-ai arătat mucenic minunat, la trup ca o viță fiind tăiat.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mare-mucenic-iacob-persul",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

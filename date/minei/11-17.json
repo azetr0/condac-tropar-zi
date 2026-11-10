@@ -1,0 +1,29 @@
+{
+ "zi": "11-17",
+ "pomeniri": [
+  "Sfântul Ierarh Grigorie Taumaturgul, Episcopul Neocezareei Pontului",
+  "Sfântul Cuvios Lazăr Zugravul",
+  "Sfântul Ierarh Ghenadie, patriarhul Constantinopolului"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Grigorie Taumaturgul, Episcopul Neocezareei",
+   "glas": 8,
+   "podobie": "",
+   "text": "Întru rugăciuni priveghind, la lucrările minunilor răbdând, asemenea numire cu îndreptările ai câștigat. Ci, te roagă lui Hristos Dumnezeu, Părinte Grigorie, să lumineze sufletele noastre, ca să nu adormim în moarte cu păcate.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-grigorie-taumaturgul-episcopul-neocezareei",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Grigorie Taumaturgul, Episcopul Neocezareei",
+   "glas": 4,
+   "podobie": "Căutând cele de sus…",
+   "text": "Luând lucrarea multor minuni, cu semne înfricoșătoare pe demoni i-ai îngrozit și bolile oamenilor ai alungat, Preaînțelepte Grigorie. Și făcător de minuni ești numit, din fapte luându-ți numele.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-grigorie-taumaturgul-episcopul-neocezareei",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

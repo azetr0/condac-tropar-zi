@@ -1,0 +1,49 @@
+{
+ "zi": "11-19",
+ "pomeniri": [
+  "Sfântul Ierarh Filaret, Mitropolitul Moscovei și Kolomnei",
+  "Sfântul Ilarion Georgianul, făcătorul de minuni",
+  "Sfântul Proroc Avdie",
+  "Sfântul Mucenic Varlaam",
+  "Cinstirea Sfintei Icoane a Maicii Domnului „Mângâierea celor necăjiți și întristați”"
+ ],
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Proroc Avdie",
+   "glas": 2,
+   "podobie": "",
+   "text": "Pomenind prăznuirea prorocului tău Avdie, Doamne, printr-însul Te rugăm: izbăvește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-proroc-avdie",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Varlaam",
+   "glas": 4,
+   "podobie": "",
+   "text": "Și părtaș obiceiurilor și următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învățând și cu credința răbdând până la sânge, Sfințite Mucenice Varlaam, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-varlaam",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Proroc Avdie",
+   "glas": 2,
+   "podobie": "Căutând cele de sus…",
+   "text": "Cu Dumnezeiasca Lumină strălucindu-ți mintea, prin vedere lămurită ai vestit cele viitoare, Prorocule Avdie, de Dumnezeu primite, proroc mare al harului făcându-te însuți lui Dumnezeu și rugându-te neîncetat pentru noi toți.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-proroc-avdie",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mucenic Varlaam",
+   "glas": 2,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Arătatu-te-ai, preaminunate, tăriei ardere de tot, tămâie cu bun miros și pe tine te-ai adus jertfă lui Hristos și cununa cinstei ai primit, Sfinte Mucenice Varlaam, luptătorule; roagă-te pentru noi pururea.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-varlaam",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}
