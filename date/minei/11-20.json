@@ -1,9 +1,9 @@
 {
  "zi": "11-20",
  "pomeniri": [
+  "Înainte-prăznuirea Intrării în Biserică a Maicii Domnului",
   "✝) Sfântul Cuvios Grigorie Decapolitul",
   "✝ Sfântul Mucenic Dasie",
-  "Înainte-prăznuirea Intrării în Biserică a Maicii Domnului",
   "Sfântul Ierarh Proclu, Patriarhul Constantinopolului"
  ],
  "cruce": "neagra",
@@ -22,11 +22,11 @@
   },
   {
    "tip": "tropar",
-   "titlu": "Troparul Sfântului Mucenic Dasie din Axiopolis-Cernavodă",
+   "titlu": "Troparul Sfântului Ierarh Proclu, Patriarhul Constantinopolului",
    "glas": 4,
    "podobie": "",
-   "text": "Sfinte Dasie, mucenic al lui Hristos, pe tine te laudă obștea credincioșilor din Axiopolis. Că pe tiranul vrăjmaș, cu puterea crucii, cu statornicie în mărturisirea credinței în Dumnezeu, vitejește l-ai călcat, făcându-te pe tine viteaz ostaș al lui Hristos. Că, lepădând păgânătatea, cununa cea adevărată, din mâna lui Hristos ai luat. Pe Acesta roagă-L, Preafericite Mucenice Dasie, să mântuiască pe toți cei ce săvârșesc sfântă pomenirea ta.",
-   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-dasie-din-axiopolis-cernavoda",
+   "text": "Dumnezeul părinților noștri Care faci pururea cu noi după blândețile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile lor, în pace îndreptează viața noastră.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-proclu-patriarhul-constantinopolului",
    "principal": true
   },
   {
@@ -49,11 +49,11 @@
   },
   {
    "tip": "condac",
-   "titlu": "Condacul Sfântului Mucenic Dasie din Axiopolis-Cernavodă",
-   "glas": 8,
-   "podobie": "",
-   "text": "Pricină de veselie ne-a venit nouă astăzi pomenindu-te, Sfinte Mucenice Dasie, că, întrarmându-te Dumnezeiește cu neprihănirea sufletului și ținând în cuget rugăciunea cea neîncetată, cu tărie ai biruit taberele vrăjmașilor, Sfinte Mucenice, făcătorule de minuni. Roagă-te neîncetat lui Hristos Dumnezeu pentru noi toți.",
-   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-dasie-din-axiopolis-cernavoda",
+   "titlu": "Condacul Sfântului Ierarh Proclu, Patriarhul Constantinopolului",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi lumii…",
+   "text": "După vrednicie astăzi prăznuiește, cea mai cinstită decât toate cetățile cu adevărat, cinstită mutarea ta, părinte al părinților, Preafericite Proclu, Înțelepte.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-proclu-patriarhul-constantinopolului",
    "principal": true
   },
   {
@@ -67,6 +67,15 @@
   },
   {
    "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Dasie din Axiopolis-Cernavodă",
+   "glas": 4,
+   "podobie": "",
+   "text": "Sfinte Dasie, mucenic al lui Hristos, pe tine te laudă obștea credincioșilor din Axiopolis. Că pe tiranul vrăjmaș, cu puterea crucii, cu statornicie în mărturisirea credinței în Dumnezeu, vitejește l-ai călcat, făcându-te pe tine viteaz ostaș al lui Hristos. Că, lepădând păgânătatea, cununa cea adevărată, din mâna lui Hristos ai luat. Pe Acesta roagă-L, Preafericite Mucenice Dasie, să mântuiască pe toți cei ce săvârșesc sfântă pomenirea ta.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-dasie-din-axiopolis-cernavoda",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
    "titlu": "Troparul Sfântului Cuvios Grigorie Decapolitul",
    "glas": 3,
    "podobie": "",
@@ -75,21 +84,12 @@
    "principal": false
   },
   {
-   "tip": "tropar",
-   "titlu": "Troparul Sfântului Ierarh Proclu, Patriarhul Constantinopolului",
-   "glas": 4,
-   "podobie": "",
-   "text": "Dumnezeul părinților noștri Care faci pururea cu noi după blândețile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile lor, în pace îndreptează viața noastră.",
-   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-proclu-patriarhul-constantinopolului",
-   "principal": false
-  },
-  {
    "tip": "condac",
-   "titlu": "Condacul Sfântului Ierarh Proclu, Patriarhul Constantinopolului",
-   "glas": 4,
-   "podobie": "Arătatu-Te-ai astăzi lumii…",
-   "text": "După vrednicie astăzi prăznuiește, cea mai cinstită decât toate cetățile cu adevărat, cinstită mutarea ta, părinte al părinților, Preafericite Proclu, Înțelepte.",
-   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-proclu-patriarhul-constantinopolului",
+   "titlu": "Condacul Sfântului Mucenic Dasie din Axiopolis-Cernavodă",
+   "glas": 8,
+   "podobie": "",
+   "text": "Pricină de veselie ne-a venit nouă astăzi pomenindu-te, Sfinte Mucenice Dasie, că, întrarmându-te Dumnezeiește cu neprihănirea sufletului și ținând în cuget rugăciunea cea neîncetată, cu tărie ai biruit taberele vrăjmașilor, Sfinte Mucenice, făcătorule de minuni. Roagă-te neîncetat lui Hristos Dumnezeu pentru noi toți.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-dasie-din-axiopolis-cernavoda",
    "principal": false
   }
  ],

@@ -31,6 +31,15 @@
    "principal": true
   },
   {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Nil Pustnicul",
+   "glas": 8,
+   "podobie": "",
+   "text": "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor și cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; și te-ai făcut luminător lumii, strălucind cu minunile, Nil, părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-nil-pustnicul",
+   "principal": true
+  },
+  {
    "tip": "condac",
    "titlu": "Condacul Sfântului Ierarh Ioan cel Milostiv, Patriarhul Alexandriei",
    "glas": 2,
@@ -40,22 +49,13 @@
    "principal": true
   },
   {
-   "tip": "tropar",
-   "titlu": "Troparul Sfântului Cuvios Nil Pustnicul",
-   "glas": 8,
-   "podobie": "",
-   "text": "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor și cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; și te-ai făcut luminător lumii, strălucind cu minunile, Nil, părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
-   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-nil-pustnicul",
-   "principal": false
-  },
-  {
    "tip": "condac",
    "titlu": "Condacul Sfântului Cuvios Nil Pustnicul",
    "glas": 8,
    "podobie": "Apărătoare Doamnă…",
    "text": "Zburdările cele aprinzătoare de patimi de la trup despărțindu-le, Sfinte Nil, Fericite, cu veghetoare rugăciunea ta le-ai tăiat. Ci, ca cel ce ai îndrăzneală către Domnul, scapă-mă din toate primejdiile, ca să strig ție: Bucură-te, părinte a toată lumea!",
    "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-nil-pustnicul",
-   "principal": false
+   "principal": true
   }
  ],
  "verificat": true

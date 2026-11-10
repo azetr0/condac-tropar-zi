@@ -14,7 +14,7 @@
   {
    "tip": "tropar",
    "titlu": "Troparul Sfântului Cuvios Mărturisitor Arsenie de la Prislop",
-   "glas": null,
+   "glas": 1,
    "podobie": "",
    "text": "Sfinte Cuvioase Părinte Arsenie, mărturisitorul dreptei credințe, povățuitor înțelept al credincioșilor pe cărarea împărăției, și de minuni făcătorule cel ce în vremuri grele ai strălucit, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
    "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-marturisitor-arsenie-de-la-prislop",
@@ -27,6 +27,15 @@
    "podobie": "",
    "text": "Pustnicește mai înainte pregătindu-te în munte, taberele vrăjmașilor celor netrupești cu toată arma Crucii le-ai pierdut, întru tot fericite. Și iarăși spre chinuire bărbătește te-ai îmbrăcat, ucigând pe Copronim cu sabia credinței. Și pentru amândouă te-ai încununat de la Dumnezeu, Preacuvioase Mucenice Ștefan, pururea pomenite.",
    "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-mucenic-stefan-cel-nou",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Irinarh",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mucenicul Tău, Doamne, Irinarh, întru nevoința sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-irinarh",
    "principal": true
   },
   {
@@ -48,22 +57,13 @@
    "principal": true
   },
   {
-   "tip": "tropar",
-   "titlu": "Troparul Sfântului Mucenic Irinarh",
-   "glas": 4,
-   "podobie": "",
-   "text": "Mucenicul Tău, Doamne, Irinarh, întru nevoința sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
-   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-irinarh",
-   "principal": false
-  },
-  {
    "tip": "condac",
    "titlu": "Condacul Sfântului Mucenic Irinarh",
    "glas": 2,
    "podobie": "Cele de sus căutând…",
    "text": "Stea luminoasă și nerătăcită te-ai arătat lumii, care vestești pe Soarele Hristos cu razele tale, purtătorule de luptă Sfinte Irinarh și înșelăciunea toată ai stins-o, iar nouă lumină ne-ai dat, rugându-te neîncetat pentru noi toți.",
    "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-irinarh",
-   "principal": false
+   "principal": true
   }
  ],
  "verificat": true

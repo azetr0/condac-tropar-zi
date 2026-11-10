@@ -1,25 +1,16 @@
 {
  "zi": "11-18",
  "pomeniri": [
-  "✝) Sfântul Cuvios Nectarie Protopsaltul de la Prodromu",
   "Sfântul Mucenic Platon",
+  "Sfântul Mucenic Roman diaconul",
   "Sfântul Mucenic Zaheu diaconul",
-  "Sfântul Mucenic Roman diaconul"
+  "✝) Sfântul Cuvios Nectarie Protopsaltul de la Prodromu"
  ],
  "cruce": "neagra",
  "slujba": {
   "fel": "rand"
  },
  "imne": [
-  {
-   "tip": "tropar",
-   "titlu": "Troparul Sfântului Cuvios Nectarie Protopsaltul",
-   "glas": 3,
-   "podobie": "",
-   "text": "Sfinte Nectarie, chemând în inimă cu înțelegere numele Domnului, te-ai luminat și te-ai sfințit în liniștea din pustie. Glasul tău a bucurat plinătatea Bisericii, iar prin osteneala ta moștenire sfântă ne-ai dat, prin care te cinstim, Cuvioase, și cerem a ta rugăciune.",
-   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-nectarie-protopsaltul",
-   "principal": true
-  },
   {
    "tip": "tropar",
    "titlu": "Troparul Sfântului Mucenic Platon și al Sfântul Mucenic Roman, diaconul",
@@ -37,6 +28,15 @@
    "text": "Sfântă pomenirea ta lumea veselește, chemând pe toți în preacinstită biserica ta, unde acum cu bucurie adunându-ne, cântăm cu cântări și cu luminări. Pentru aceasta, Sfinte Platon, strigăm: izbăvește de vrăjmași pe poporul tău, sfinte.",
    "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-platon",
    "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Nectarie Protopsaltul",
+   "glas": 3,
+   "podobie": "",
+   "text": "Sfinte Nectarie, chemând în inimă cu înțelegere numele Domnului, te-ai luminat și te-ai sfințit în liniștea din pustie. Glasul tău a bucurat plinătatea Bisericii, iar prin osteneala ta moștenire sfântă ne-ai dat, prin care te cinstim, Cuvioase, și cerem a ta rugăciune.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-nectarie-protopsaltul",
+   "principal": false
   },
   {
    "tip": "condac",

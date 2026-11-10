@@ -26,10 +26,10 @@
   {
    "tip": "tropar",
    "titlu": "Troparul Sfinților Mucenici și Mărturisitori Gurie, Samona și Aviv, diaconul",
-   "glas": 5,
+   "glas": 4,
    "podobie": "",
-   "text": "Minunile sfinților Tăi mucenici zid nebiruit ne-ai dăruit nouă, Hristoase Dumnezeule. Pentru rugăciunile lor, sfaturile păgânilor le risipește, sceptrele împărăției le întărește, ca un Bun și de oameni Iubitor.",
-   "sursa": "https://doxologia.ro/troparul-sfintilor-mucenici-marturisitori-gurie-samona-aviv-diaconul-0",
+   "text": "Ocrotitorii și apărătorii Edesei, cei ce săvârșiți minuni mari în lume, cei ce pe tânără ați dat-o iarăși în brațele maicii sale și pe călcătorul de lege got l-ați arătat osândit cu dreaptă judecată, cereți pentru noi neîncetat să se mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-mucenici-marturisitori-gurie-samona-aviv-diaconul",
    "principal": true
   },
   {
@@ -52,20 +52,20 @@
   },
   {
    "tip": "tropar",
+   "titlu": "Troparul Sfinților Mucenici și Mărturisitori Gurie, Samona și Aviv, diaconul",
+   "glas": 5,
+   "podobie": "",
+   "text": "Minunile sfinților Tăi mucenici zid nebiruit ne-ai dăruit nouă, Hristoase Dumnezeule. Pentru rugăciunile lor, sfaturile păgânilor le risipește, sceptrele împărăției le întărește, ca un Bun și de oameni Iubitor.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-mucenici-marturisitori-gurie-samona-aviv-diaconul-0",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
    "titlu": "Troparul Sfântului Cuvios Gherman de Alaska",
    "glas": 2,
    "podobie": "",
    "text": "Nevoitorule al pustiirilor nordice și rugător pentru întreaga lume, învățător Ortodoxiei și chip al evlaviei, podoaba Alaskăi și veselia Americii, Sfinte Părinte Gherman, roagă-te pentru noi!",
    "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-gherman-de-alaska",
-   "principal": false
-  },
-  {
-   "tip": "tropar",
-   "titlu": "Troparul Sfinților Mucenici și Mărturisitori Gurie, Samona și Aviv, diaconul",
-   "glas": 4,
-   "podobie": "",
-   "text": "Ocrotitorii și apărătorii Edesei, cei ce săvârșiți minuni mari în lume, cei ce pe tânără ați dat-o iarăși în brațele maicii sale și pe călcătorul de lege got l-ați arătat osândit cu dreaptă judecată, cereți pentru noi neîncetat să se mântuiască sufletele noastre.",
-   "sursa": "https://doxologia.ro/troparul-sfintilor-mucenici-marturisitori-gurie-samona-aviv-diaconul",
    "principal": false
   },
   {

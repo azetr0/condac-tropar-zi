@@ -1,8 +1,8 @@
 {
  "zi": "11-14",
  "pomeniri": [
-  "Sfântul Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
   "✝) Sfântul Apostol Filip, unul dintre cei 12 Apostoli",
+  "Sfântul Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
   "Sfinții Cuvioși Palamiți: părinții Sfântului Ierarh Grigorie Palama, Constanțiu și Caloni (Cali), frații săi, Teodosie și Macarie, și surorile lui, Epiharia și Teodota",
   "Sfântul Noul Mucenic Constantin din Rodos"
  ],
@@ -21,15 +21,6 @@
    "principal": true
   },
   {
-   "tip": "tropar",
-   "titlu": "Troparul Sfântului Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
-   "glas": 8,
-   "podobie": "",
-   "text": "Luminătorule al dreptei credințe, sprijinul Bisericii și învățătorule, podoaba monahilor, apărătorule cel nebiruit al teologilor, făcătorule de minuni, Grigorie, lauda Tesalonicului, propovăduitorule al harului, roagă-te pururea să se mântuiască sufletele noastre.",
-   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-grigorie-palama-arhiepiscopul-tesalonicului",
-   "principal": true
-  },
-  {
    "tip": "condac",
    "titlu": "Condacul Sfântului Apostol Filip",
    "glas": 8,
@@ -39,13 +30,13 @@
    "principal": true
   },
   {
-   "tip": "condac",
-   "titlu": "Condacul Sfântului Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
    "glas": 8,
    "podobie": "",
-   "text": "Pe tine, organul înțelepciunii, cel sfințit trâmbița și dumnezeiesc, cuvântării de Dumnezeu cea strălucită, cu un glas te lăudăm, Grigorie de Dumnezeu grăitorule. Ci, ca cel ce stai ca o minte înaintea Minții celei dintâi, către Dânsul îndreptează mintea noastră, Părinte Grigorie, ca să strigăm ție: Bucură-te, propovăduitorule al harului!",
-   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-grigorie-palama-arhiepiscopul-tesalonicului",
-   "principal": true
+   "text": "Luminătorule al dreptei credințe, sprijinul Bisericii și învățătorule, podoaba monahilor, apărătorule cel nebiruit al teologilor, făcătorule de minuni, Grigorie, lauda Tesalonicului, propovăduitorule al harului, roagă-te pururea să se mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-grigorie-palama-arhiepiscopul-tesalonicului",
+   "principal": false
   },
   {
    "tip": "tropar",
@@ -63,6 +54,15 @@
    "podobie": "",
    "text": "Îndură-te cu milostivire spre noi, fiii tăi, cei ce stăm înaintea raclei cu moaștele tale și din suflet îndurerat ne rugăm ție și strigăm, zicând: Primește rugăciunile noastre și le înalță către Ziditorul tuturor, Sfinte Grigorie; nu ne lăsa neajutorați pe noi, cei ce te-am dobândit mijlocitor bine-primit.",
    "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-grigorie-palama",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
+   "glas": 8,
+   "podobie": "",
+   "text": "Pe tine, organul înțelepciunii, cel sfințit trâmbița și dumnezeiesc, cuvântării de Dumnezeu cea strălucită, cu un glas te lăudăm, Grigorie de Dumnezeu grăitorule. Ci, ca cel ce stai ca o minte înaintea Minții celei dintâi, către Dânsul îndreptează mintea noastră, Părinte Grigorie, ca să strigăm ție: Bucură-te, propovăduitorule al harului!",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-grigorie-palama-arhiepiscopul-tesalonicului",
    "principal": false
   },
   {

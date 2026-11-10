@@ -17,7 +17,7 @@
   {
    "tip": "tropar",
    "titlu": "Troparul Sfântului Cuvios Mucenic Visarion de la Lainici",
-   "glas": null,
+   "glas": 3,
    "podobie": "",
    "text": "Minunată lucrare ai arătat în Mănăstirea Lainici, Sfinte Părinte Visarion, prin postire, priveghere și rugăciune, prin iubirea desăvârșită de Dumnezeu și de semeni, făcător de minuni arătându-te. Iar, pătimind de la cei rău-credincioși cu slavă te-ai încununat în ceruri. Pentru aceasta, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
    "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-mucenic-visarion-de-la-lainici",
@@ -30,6 +30,15 @@
    "podobie": "",
    "text": "Sfinților Apostoli, rugați pe Milostivul Dumnezeu ca să dea iertare de greșeli sufletelor noastre.",
    "sursa": "https://doxologia.ro/troparul-sfintilor-apostoli-olimp-rodion-sosipatru-erast-tertiu-cvart",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Orest",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mucenicul Tău, Doamne, Orest, întru nevoința sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-orest",
    "principal": true
   },
   {
@@ -57,15 +66,6 @@
    "podobie": "",
    "text": "Viață plăcută lui Dumnezeu petrecând și vas cinstit Mângâietorului făcându-te, purtătorule de Dumnezeu Arsenie, te-ai arătat și primitor al darului facerii de minuni, tuturor dându-le grabnic ajutor, Părinte Cuvioase, pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.",
    "sursa": "https://doxologia.ro/troparul-sfantului-arsenie-capadocianul",
-   "principal": false
-  },
-  {
-   "tip": "tropar",
-   "titlu": "Troparul Sfântului Mucenic Orest",
-   "glas": 4,
-   "podobie": "",
-   "text": "Mucenicul Tău, Doamne, Orest, întru nevoința sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
-   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-orest",
    "principal": false
   },
   {
