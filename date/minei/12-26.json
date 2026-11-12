@@ -1,0 +1,105 @@
+{
+ "zi": "12-26",
+ "pomeniri": [
+  "✝) Soborul Maicii Domnului",
+  "✝) Sfântul Cuvios Nicodim de la Tismana",
+  "✝) Sfântul Cuvios Mucenic Gherasim de la Tismana",
+  "Sfântul Mucenic Eftimie, Episcopul Sardelor",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Ostrobramsk - Vilnius”",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Binecuvântat este pântecele…”",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Trei Bucurii”",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Milostiva”",
+  "Cinstirea Sfintei Icoane a Maicii Domnului Betleemita"
+ ],
+ "cruce": "rosie",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Nicodim de la Tismana",
+   "glas": 1,
+   "podobie": "",
+   "text": "Celui Ce a Răsărit din Fecioara, Mai Marelui Păstorilor, ca o oaie de turmă ai urmat, Părinte al nostru Sfinte Nicodim. Cu postul, cu privegherea și cu rugăciunile, te-ai făcut lucrător sfințit de cele cerești, tămăduind sufletele celor ce aleargă la tine cu credință. Pentru aceasta strigăm: Slavă Celui Ce te-a preaslăvit pe tine; Slavă Celui Ce ți-a dat ție putere; Slavă Celui Ce a arătat tuturor prin tine îndreptare.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-nicodim-de-la-tismana",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Mucenic Gherasim de la Tismana",
+   "glas": null,
+   "podobie": "",
+   "text": "Îndreptătorule al călugărilor și podoaba cea aleasă a mărturisitorilor, Sfinte Părinte Gherasim, lauda Tismanei, cel ce ești preamărit în ceata mucenicilor și împreună te veselești în ceruri cu Sfântul Nicodim, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-mucenic-gherasim-de-la-tismana",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 4,
+   "podobie": "",
+   "text": "Nașterea Ta, Hristoase, Dumnezeul nostru, răsărit-a lumii lumina cunoștinței; că întru dânsa cei ce slujeau stelelor de la Stea s-au învățat să se închine Ție, Soarelui dreptății și să Te cunoască pe Tine, Răsăritul Cel de sus, Doamne, Slavă Ție!",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Nicodim de la Tismana",
+   "glas": 8,
+   "podobie": "Apărătoare Doamnă…",
+   "text": "Apărătorului nostru celui din multe nevoi și primejdii, pentru izbăvirea și tămăduirea a tot felul de boli cu lucrarea multor minuni, cu darul Sfântului Duh, laude cu mulțumiri aducem ție, sfinte, noi fiii tăi. Ci, ca cel ce ești mult milostiv și grabnic ajutător celor ce vin la tine cu credință, eliberează-ne cu rugăciunile tale din toate nevoile și de primejdia diavolească cea rea; ca să strigăm ție: bucură-te, mare făcătorule de minuni, Preacuvioase Părintele nostru Nicodim, Sfințite și pururea mărite!",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-nicodim-de-la-tismana",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Mucenic Gherasim de la Tismana",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Lângă izvorul dragostei dumnezeiești ai fost răsădit și crescut, Cuvioase Gherasim, părinte duhovnicesc al Tismanei, și, odrăslind roadele smereniei și iertării, te-ai încununat și cu moartea mucenicească, de Dumnezeu purtătorule, iar în ceruri acum te rogi pentru noi.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-mucenic-gherasim-de-la-tismana",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Praznicului Nașterii Domnului (Crăciunului), la Sărbătoarea Sfântului Ierarh Eftimie Mărturisitorul, Episcopul Sardei",
+   "glas": 6,
+   "podobie": "",
+   "text": "Cel Ce mai înainte de Luceafăr S-a născut din Tatăl fără de mamă, astăzi pe pământ S-a Întrupat din tine, fără de tată. Pentru aceasta steaua bine vestește magilor; iar îngerii cu păstorii laudă nașterea ta cea mai presus de fire, Ceea ce ești Plină de har.",
+   "sursa": "https://doxologia.ro/condacul-praznicului-nasterii-domnului-craciunului-la-sarbatoarea-sfantului-ierarh-eftimie",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Eftimie Mărturisitorul, Episcopul Sardei",
+   "glas": 4,
+   "podobie": "",
+   "text": "Îndreptător credinței și chip blândețelor, învățător înfrânării te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte și cu sărăcia cele bogate; Părinte Ierarhe Eftimie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-eftimie-marturisitorul-episcopul-sardei",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Eftimie Mărturisitorul, Episcopul Sardei",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Împreună cu îngerii, lăudăm noi, oamenii, pe sfințitul mucenic; ierarhii, cuvioșii și purtătorii de biruințe îl cinstesc; căci ca un fără de trup în răbdare s-a dovedit și mucenic și ierarh s-a arătat și mult pătimind, a câștigat cununi de la Hristos, Dumnezeu.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-eftimie-marturisitorul-episcopul-sardei",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Nicodim de la Tismana",
+   "glas": 8,
+   "podobie": "",
+   "text": "Ca pe cel împreună râvnitor sfinților și ca pe un părinte mare, toată lavra ta, Tismana, te cinstește pe tine cu credință, Sfințite Nicodim; pe care păzește-o cu rugăciunile tale, fericite, totdeauna nebiruită și netulburată de toate nevoile, ca un părinte cuvios și pururea lăudat.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-nicodim-de-la-tismana-0",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

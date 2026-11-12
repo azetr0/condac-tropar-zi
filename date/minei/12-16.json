@@ -1,0 +1,33 @@
+{
+ "zi": "12-16",
+ "pomeniri": [
+  "Sfânta Teofana Împărăteasa",
+  "Sfântul Proroc Agheu",
+  "Sfântul Mucenic Marin"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Proroc Agheu",
+   "glas": 2,
+   "podobie": "",
+   "text": "A prorocului Tău, Doamne, Agheu pomenire prăznuind, printr-însul Te rugăm, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-proroc-agheu",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Proroc Agheu",
+   "glas": 1,
+   "podobie": "Piatra fiind…",
+   "text": "Cel Ce ca un Dumnezeu toate le vede și le știe, luminându-ți ochiul cel curat al sufletului, prealăudate prorocule, te-a arătat lumii povățuitor. Pentru aceasta săvârșind sfântă pomenirea ta, te aducem pe tine rugător către Dumnezeu, Sfinte Prorocule Agheu.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-proroc-agheu",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

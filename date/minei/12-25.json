@@ -1,0 +1,61 @@
+{
+ "zi": "12-25",
+ "pomeniri": [
+  "(✝) Nașterea Domnului (Crăciunul)"
+ ],
+ "cruce": "rosie",
+ "slujba": {
+  "fel": "priveghere"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 4,
+   "podobie": "",
+   "text": "Nașterea Ta, Hristoase, Dumnezeul nostru, răsărit-a lumii lumina cunoștinței; că întru dânsa cei ce slujeau stelelor de la Stea s-au învățat să se închine Ție, Soarelui dreptății și să Te cunoască pe Tine, Răsăritul Cel de sus, Doamne, Slavă Ție!",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Fecioara astăzi, pe Cel mai presus de ființă naște și pământul peștera Celui Neapropiat aduce. Îngerii cu păstorii slavoslovesc și magii cu Steaua călătoresc. Că pentru noi s-a născut Prunc Tânăr, Dumnezeu, Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condac-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 6,
+   "podobie": "",
+   "text": "În Taină Te-ai născut în peșteră, dar cerul pe Tine tuturor Te-a propovăduit, punând Steaua înainte ca o gură, Mântuitorule. Și a adus Ție pe magi, care Ți s-au închinat cu credință; împreună cu care miluiește-ne pe noi.",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-nasterii-domnului-craciunul-0",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 6,
+   "podobie": "",
+   "text": "Răsărit-ai, Hristoase, ca un Soare Înțelegător al dreptății; și Steaua Te-a arătat încăput în peșteră, pe Tine, Cel Neîncăput. Pe magi i-ai îndreptat spre închinarea Ta, cu care împreună Te slăvim, Dătătorule de viață, Slavă Ție!",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-nasterii-domnului-craciunul-1",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Praznicului Nașterii Domnului (Crăciunului), la Sărbătoarea Sfântului Ierarh Eftimie Mărturisitorul, Episcopul Sardei",
+   "glas": 6,
+   "podobie": "",
+   "text": "Cel Ce mai înainte de Luceafăr S-a născut din Tatăl fără de mamă, astăzi pe pământ S-a Întrupat din tine, fără de tată. Pentru aceasta steaua bine vestește magilor; iar îngerii cu păstorii laudă nașterea ta cea mai presus de fire, Ceea ce ești Plină de har.",
+   "sursa": "https://doxologia.ro/condacul-praznicului-nasterii-domnului-craciunului-la-sarbatoarea-sfantului-ierarh-eftimie",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

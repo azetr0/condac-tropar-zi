@@ -1,0 +1,42 @@
+{
+ "zi": "12-03",
+ "pomeniri": [
+  "✝) Sfântul Cuvios Gheorghe de la Cernica",
+  "Sfântul Proroc Sofonie",
+  "Sfântul Sfințit Mucenic Teodor, Arhiepiscopul Alexandriei"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Gheorghe de la Cernica",
+   "glas": 4,
+   "podobie": "",
+   "text": "Următor al cuvioșilor părinți și împlinitor al virtuților sihăstrești, rugător neîncetat și înnoitor al monahismului românesc te-ai arătat, Sfinte Cuvioase Părinte Gheorghe. Roagă-te lui Hristos Dumnezeu să ne dăruiască nouă mare milă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-gheorghe-de-la-cernica",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Proroc Sofonie",
+   "glas": 2,
+   "podobie": "",
+   "text": "A prorocului Tău, Doamne, Sofonie pomenire prăznuind, printr-însul Te rugăm, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-proroc-sofonie",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Proroc Sofonie",
+   "glas": 6,
+   "podobie": "Ușa milostivirii…",
+   "text": "Curățindu-ți mintea de întinăciune, înțelepte, ai făcut-o oglindă Dumnezeiască, primind în ea Razele Dumnezeiescului Duh și acum ai aflat loc la Izvorul Strălucirilor, bucurându-te, Sfinte Prorocule Sofonie.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-proroc-sofonie",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

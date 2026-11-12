@@ -1,0 +1,54 @@
+{
+ "zi": "12-31",
+ "pomeniri": [
+  "✝ Sfântul Mucenic Hermes",
+  "Sfânta Cuvioasă Melania Romana",
+  "Odovania praznicului Nașterii Domnului"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 4,
+   "podobie": "",
+   "text": "Nașterea Ta, Hristoase, Dumnezeul nostru, răsărit-a lumii lumina cunoștinței; că întru dânsa cei ce slujeau stelelor de la Stea s-au învățat să se închine Ție, Soarelui dreptății și să Te cunoască pe Tine, Răsăritul Cel de sus, Doamne, Slavă Ție!",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Fecioara astăzi, pe Cel mai presus de ființă naște și pământul peștera Celui Neapropiat aduce. Îngerii cu păstorii slavoslovesc și magii cu Steaua călătoresc. Că pentru noi s-a născut Prunc Tânăr, Dumnezeu, Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condac-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Cuvioase Melania Romana",
+   "glas": 8,
+   "podobie": "",
+   "text": "Întru tine, maică, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; și lucrând, ai învățat să nu se uite la trup, căci este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta și cu îngerii împreună se bucură, Preacuvioasă Maică Melania, duhul tău.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-cuvioase-melania-romana-0",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Cuvioase Melania Romana",
+   "glas": 4,
+   "podobie": "Cel Ce Te-ai Înălțat…",
+   "text": "Luminându-ți-se sufletul cu Luminările Celui Ce ne-a Strălucit nouă din Fecioara, ai strălucit în fapte bune, ceea ce ești vrednică de laudă. Că împărțind pe pământ avuția cea stricăcioasă, ai îngrămădit comoară de avuție cerească și în sihăstrie ai strălucit lămurit. Pentru aceasta cu dragoste te cinstim pe tine, Preacuvioasă Melania.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-cuvioase-melania-romana",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

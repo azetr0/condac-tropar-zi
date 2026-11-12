@@ -1,0 +1,33 @@
+{
+ "zi": "12-05",
+ "pomeniri": [
+  "✝) Sfântul Cuvios Sava cel Sfințit",
+  "Sfântul Cuvios Mucenic Cosma Athonitul",
+  "Sfântul Mucenic Anastasie"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Sava cel Sfințit",
+   "glas": 8,
+   "podobie": "",
+   "text": "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor și cu suspinurile cele din adânc ai făcut ostenelile tale însutit roditoare și te-ai făcut luminător lumii, strălucind cu minunile, Sfinte Sava părintele nostru, cuvioase! Roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-sava-cel-sfintit",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Sava cel Sfințit",
+   "glas": 8,
+   "podobie": "Apărătoare Doamnă…",
+   "text": "Ca unul ce din pruncie te-ai adus lui Dumnezeu jertfă fără prihană, prin faptă bună, Fericite Părinte Sava, săditor al cucerniciei te-ai arătat. Pentru aceasta ai fost podoaba cuvioșilor și cetățean vrednic de laudă al pustiului. Drept aceea strigăm către tine: bucură-te părinte de trei ori fericite!",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-sava-cel-sfintit",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

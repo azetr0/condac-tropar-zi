@@ -1,0 +1,32 @@
+{
+ "zi": "12-11",
+ "pomeniri": [
+  "Sfântul Cuvios Daniil Stâlpnicul",
+  "Sfântul Cuvios Luca cel Nou"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Daniil Stâlpnicul",
+   "glas": 1,
+   "podobie": "",
+   "text": "Stâlp al răbdării ai fost râvnind strămoșilor, cuvioase: Dreptului Iov întru patimi, Sfântului Iosif întru ispite; și în trup viața celor fără de trup având, Sfinte Preacuvioase Daniil, părintele nostru, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-daniil-stalpnicul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Daniil Stâlpnicul",
+   "glas": 8,
+   "podobie": "Ca o pârgă a firii…",
+   "text": "Suindu-te pe stâlp, fericite, ai luminat lumea cu sfintele tale fapte și ca o stea mult strălucitoare, ai depărtat, părinte, întunericul înșelăciunii. Pentru aceasta te rugăm pe tine, luminează și acum, în inimile robilor tăi, lumina cea neapusă a cunoștinței.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-daniil-stalpnicul",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

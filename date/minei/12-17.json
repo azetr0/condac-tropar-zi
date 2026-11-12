@@ -1,0 +1,53 @@
+{
+ "zi": "12-17",
+ "pomeniri": [
+  "Sfântul Proroc Daniel și Sfinții trei tineri Anania, Azaria și Misail",
+  "Sfântul Ierarh Dionisie din Zakynthos",
+  "Sfinții Cuvioși Atanasie, Nicolae și Antonie, ctitorii Mănăstirii Vatoped",
+  "Sfântul Mucenic Avacum, diaconul",
+  "Sfântul Cuvios Hagi-Gheorghe Athonitul"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Proroc Daniel și al Sfinților trei Tineri: Anania, Azaria și Misail",
+   "glas": 2,
+   "podobie": "",
+   "text": "Mari sunt faptele credinței; că în mijlocul izvorului văpăii, ca într-o apă de odihnă sfinții trei Tineri s-au bucurat și Prorocul Daniel păstor leilor ca unor oi s-a arătat. Pentru rugăciunile lor, Hristoase Dumnezeule, miluiește-ne pe noi.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-proroc-daniel-al-sfintilor-trei-tineri-anania-azaria-misail",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Proroc Daniel",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Luminându-se cu duhul inima ta cea curată, vas de prorocie te-ai făcut; că ai văzut cele ce erau departe, ca și cum ar fi fost de față și pe lei i-ai îmblânzit, fiind aruncat în groapa lor. Pentru aceasta pe tine te cinstim, Prorocule, Fericite Daniel.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-proroc-daniel",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților trei Tineri: Anania, Azaria și Misail",
+   "glas": 3,
+   "podobie": "",
+   "text": "Chipul cel zugrăvit de mână nu l-ați cinstit; ci, întrarmându-vă cu Ființa Cea Nestricăcioasă, de trei ori fericiților, în locul pregătit de luptă prin foc v-ați preamărit; și în mijlocul văpăii celei de nesuferit stând, pe Dumnezeu L-ați chemat: grăbește, o, Îndurate și sârguiește ca un Milostiv spre ajutorul nostru, că poți toate câte le voiești.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-trei-tineri-anania-azaria-misail",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Dionisie din Zakynthos",
+   "glas": 1,
+   "podobie": "",
+   "text": "Pe mlădița din Zachint și episcopul Eghinei, ocrotitorul Mănăstirii Strofada, pe Sfântul Dionisie toți să îl lăudam și să-i strigăm: Prin ale tale calde rugăciuni mântuiește pe cei ce strigă către tine: Slavă Celui ce te-a preaslăvit pe tine, slavă Celui ce te-a încununat, slavă Celui ce te-a dăruit mijlocitor neadormit!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-dionisie-din-zakynthos",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

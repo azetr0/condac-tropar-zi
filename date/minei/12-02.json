@@ -1,0 +1,73 @@
+{
+ "zi": "12-02",
+ "pomeniri": [
+  "✝) Sfântul Cuvios Cleopa de la Sihăstria",
+  "✝) Sfântul Cuvios Paisie de la Sihăstria",
+  "Sfântul Cuvios Porfirie Kavsokalivitul",
+  "Sfântul Proroc Avacum",
+  "Sfântul Cuvios Alexie (Kabaliuk) Carpatinul",
+  "Sfânta Muceniță Miropi",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Stareța” (Gherontissa)"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Cuvioși Cleopa și Paisie de la Sihăstria",
+   "glas": 1,
+   "podobie": "",
+   "text": "Pe-ai Moldovei luceferi și pe stâlpii smereniei, care pe pământ cu credință într-un gând nevoitu-s-au, pe marele Cleopa cel smerit, pe gura tunătoare-a lui Hristos, și pe Paisie duhovnicul cel preablând cu râvnă să-i cinstim, zicând: Slavă Celui ce v-a slăvit pe voi, slavă Celui ce v-a întărit, slavă Celui ce minunați v-a arătat și rugători pentru noi.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-cuviosi-cleopa-paisie-de-la-sihastria",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Proroc Avacum",
+   "glas": 2,
+   "podobie": "",
+   "text": "A prorocului Tău, Doamne, Avacum pomenire prăznuind, printr-însul Te rugăm, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-proroc-avacum",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților Cuvioși Cleopa și Paisie de la Sihăstria",
+   "glas": 8,
+   "podobie": "Apărătoare Doamnă…",
+   "text": "Cu-a nevoințelor cunună-mpodobindu-vă, încununat-ați cu viețile Biserica, fericiților Paisie și Cleopa, ci luminii lui Hristos părtași făcându-vă, luminarea pocăinței străluciți-ne, să strigăm: Bucurați-vă, de-a pururi pomeniților.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-cuviosi-cleopa-paisie-de-la-sihastria",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Proroc Avacum",
+   "glas": 4,
+   "podobie": "Degrabă ne întâmpină…",
+   "text": "De Dumnezeu grăitorule Avacum, văzut-ai pe sfinții ucenici ca pe niște cai, tulburând vădit marea necunoștinței și înecând înșelăciunea cu dogmele dreptei cinstiri de Dumnezeu. Pentru aceasta ca pe un adevărat proroc te lăudăm, cerându-ți a te ruga Domnului să ne miluiască pe noi.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-proroc-avacum",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Porfirie Kavsokalivitul",
+   "glas": 5,
+   "podobie": "",
+   "text": "Împodobindu-te, Sfinte, Harul cel de sus, răsplată vieții și ostenelilor ți-a adus, cunoscând mai dinainte cele omenești, părtaș te-ai făcut celor dumnezeiești; al Athonului fiu și a Eviei floare, roagă-te Domnului pentru noi, Părinte Porfirie!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-porfirie-kavsokalivitul",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Porfirie Kavsokalivitul",
+   "glas": null,
+   "podobie": "",
+   "text": "După cum pe pământ te rugai pentru tămăduirea neputințelor și pentru iertarea păcatelor noastre, tot astfel și acum roagă-te în ceruri, părinte Porfirie, și roagă-L pe Hristos Dumnezeul nostru să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-porfirie-kavsokalivitul",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

@@ -1,0 +1,71 @@
+{
+ "zi": "12-29",
+ "pomeniri": [
+  "Sfinții 14.000 de prunci uciși din porunca lui Irod",
+  "Sfântul Cuvios Marcel"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților 14.000 de prunci uciși din porunca lui Irod",
+   "glas": 1,
+   "podobie": "",
+   "text": "Pentru durerile sfinților, care pentru Tine au pătimit, Milostiv fii, Doamne și vindecă toate durerile noastre, Iubitorule de oameni.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-14000-de-prunci-ucisi-din-porunca-lui-irod",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Marcel, Egumenul Mănăstirii Achimiților",
+   "glas": 8,
+   "podobie": "",
+   "text": "Întru tine, părinte, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; și lucrând, ai învățat să nu se uite la trup, căci este trecător; ci, să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta și cu îngerii împreună se bucură, Preacuvioase Părinte Marcel, duhul tău.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-marcel-egumenul-manastirii-achimitilor",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 4,
+   "podobie": "",
+   "text": "Nașterea Ta, Hristoase, Dumnezeul nostru, răsărit-a lumii lumina cunoștinței; că întru dânsa cei ce slujeau stelelor de la Stea s-au învățat să se închine Ție, Soarelui dreptății și să Te cunoască pe Tine, Răsăritul Cel de sus, Doamne, Slavă Ție!",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților 14.000 de prunci uciși din porunca lui Irod",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Steaua a condus pe magi la Cel Ce S-a născut, iar Irod oaste nedreaptă a trimis împotriva pruncilor, gândind să ucidă pe Cel Ce ca un Prunc S-a culcat în iesle.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-14000-de-prunci-ucisi-din-porunca-lui-irod",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților 14.000 de prunci uciși din porunca lui Irod",
+   "glas": 6,
+   "podobie": "Plinind rânduiala…",
+   "text": "În Betleem la Împăratul Cel Ce S-a născut, magii de la Răsărit cu daruri au venit, călăuziți fiind prin stea, din Înălțime; dar Irod s-a tulburat și a secerat pe prunci ca pe niște grâu, temându-se că stăpania lui va cădea curând.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-14000-de-prunci-ucisi-din-porunca-lui-irod-0",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Fecioara astăzi, pe Cel mai presus de ființă naște și pământul peștera Celui Neapropiat aduce. Îngerii cu păstorii slavoslovesc și magii cu Steaua călătoresc. Că pentru noi s-a născut Prunc Tânăr, Dumnezeu, Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condac-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

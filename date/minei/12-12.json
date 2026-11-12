@@ -1,0 +1,33 @@
+{
+ "zi": "12-12",
+ "pomeniri": [
+  "✝) Sfântul Ierarh Spiridon, Episcopul Trimitundei",
+  "Sfântul Ierarh Alexandru, Arhiepiscopul Ierusalimului",
+  "Sfântul Ierarh Mardarie (Uskokovic) de Libertyville"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Spiridon, Episcopul Trimitundei",
+   "glas": 1,
+   "podobie": "",
+   "text": "Soborului celui dintâi te-ai arătat apărător și de minuni făcător, de Dumnezeu purtătorule Sfinte Spiridon, părintele nostru. Pentru aceasta cu femeia cea moartă în groapă tu ai vorbit și șarpele în aur l-ai prefăcut. Și când ai cântat sfintele rugăciuni, îngeri ai avut împreună cu tine slujind, preasfințite. Slavă Celui Ce te-a preamărit pe tine; Slavă Celui Ce te-a încununat; Slavă Celui Ce lucrează prin tine tuturor tămăduiri.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-spiridon-episcopul-trimitundei-0",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Spiridon, Episcopul Trimitundei",
+   "glas": 2,
+   "podobie": "Cele de sus căutând…",
+   "text": "De dragostea lui Hristos fiind rănit, preasfințite, mintea înălțându-ți-se de lumina vie a Duhului, ai dobândit încercarea cea lucrătoare, prin adânca-ți cugetare la cele înalte, insuflate de Dumnezeu și jertfelnic Dumnezeiesc făcându-te, cere pentru toți Dumnezeiasca iertare.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-spiridon-episcopul-trimitundei",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

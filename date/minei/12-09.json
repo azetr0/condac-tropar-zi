@@ -1,0 +1,36 @@
+{
+ "zi": "12-09",
+ "pomeniri": [
+  "Zămislirea Sfintei Fecioare Maria de către Sfânta Ana",
+  "Sfânta Prorociță Ana, mama Prorocului Samuel",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Bucurie neașteptată”"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "doxologie"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Zămislirii Sfintei Fecioare Maria de către Sfânta Ana",
+   "glas": 4,
+   "podobie": "",
+   "text": "Astăzi legăturile nerodirii de fii se dezleagă; că Dumnezeu auzind pe Sfinții și Drepții Ioachim și Ana, mai presus de orice nădejde le-a făgăduit lămurit că vor naște pe Fiica lui Dumnezeu, din care S-a născut Cel Necuprins, Om făcându-Se, poruncind Îngerului să-i strige: Bucură-te cea Plină de har, Domnul este cu tine!",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-zamislirii-sfintei-fecioare-maria-de-catre-sfanta-ana",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Praznicul Zămislirii Sfintei Fecioare Maria de către Sfânta Ana",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Astăzi lumea prăznuiește zămislirea Sfintei Ana, care s-a făcut de la Dumnezeu; pentru că aceasta a născut pe Ceea ce mai presus de cuvânt a născut pe Cuvântul.",
+   "sursa": "https://doxologia.ro/condac-la-praznicul-zamislirii-sfintei-fecioare-maria-de-catre-sfanta-ana",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

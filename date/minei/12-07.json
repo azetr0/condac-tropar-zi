@@ -1,0 +1,52 @@
+{
+ "zi": "12-07",
+ "pomeniri": [
+  "✝) Sfânta Muceniță Filofteia de la Curtea de Argeș",
+  "Sfântul Ierarh Ambrozie, Episcopul Mediolanului",
+  "Sfântul Cuvios Gherasim Mikraghiananitul",
+  "Cinstirea Sfintei Icoane a Maicii Domnului din Vladimir-Seligersk"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Mucenițe Filofteia de la Curtea de Argeș",
+   "glas": 8,
+   "podobie": "",
+   "text": "Întru răbdarea ta ți-ai agonisit plata ta, Fericită Filofteia, întru ispite neîncetat răbdând, bătăi suferind, în necazuri binevoind, pe săraci miluindu-i și pe flămânzi săturându-i; roagă-te lui Hristos Dumnezeu, bună fecioară, să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-mucenite-filofteia-de-la-curtea-de-arges",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Ambrozie, Episcopul Mediolanului",
+   "glas": 4,
+   "podobie": "",
+   "text": "Îndreptător credinței și chip blândețelor, învățător înfrânării te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte și cu sărăcia cele bogate; Părinte Ierarhe Ambrozie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-ambrozie-episcopul-mediolanului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Mucenițe Filofteia de la Curtea de Argeș",
+   "glas": 8,
+   "podobie": "Apărătoare Doamnă…",
+   "text": "Sfântă Filofteia, Preafericită, din pruncie te-ai adus prin fapta bună jertfă fără prihană lui Dumnezeu, Celui Ce mai înainte de a te naște te știa pe tine, care te-ai făcut podoaba fecioarelor și locuitoare Cămării celei de nuntă, vrednică de laudă. Pentru aceasta strigăm ție: Bucură-te, fecioară, pururea pomenită!",
+   "sursa": "https://doxologia.ro/condacul-sfintei-mucenite-filofteia-de-la-curtea-de-arges",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Ambrozie, Episcopul Mediolanului",
+   "glas": 3,
+   "podobie": "Pentru mărturisirea…",
+   "text": "Cu Dumnezeiești învățături strălucind, ai îndepărtat înșelăciunea lui Arie, povățuitorule în cele de Taină și Păstorule Ambrozie; și minuni făcând, cu puterea Duhului, ai vindecat cu înțelepciune felurite patimi, părinte cuvioase; pe Hristos Dumnezeu roagă-L să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-ambrozie-episcopul-mediolanului",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

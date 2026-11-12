@@ -1,0 +1,70 @@
+{
+ "zi": "12-18",
+ "pomeniri": [
+  "✝) Sfântul Cuvios Daniil Sihastrul",
+  "Sfântul Mucenic Sebastian",
+  "Sfântul Ierarh Modest, Patriarhul Ierusalimului",
+  "Sfânta Muceniță Zoe"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Daniil Sihastrul",
+   "glas": 8,
+   "podobie": "",
+   "text": "Întru tine, Părinte, cu osârdie s-a mântuit cel după chip; căci luând Crucea, ai urmat lui Hristos; și luptând, ai învățat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta și cu îngerii se bucură, Preacuvioase Părinte Daniile, duhul tău.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-daniil-sihastrul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Sebastian și al celor împreună cu dânsul",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mucenicii Tăi, Doamne, întru nevoințele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-sebastian-al-celor-impreuna-cu-dansul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Daniil Sihastrul",
+   "glas": 3,
+   "podobie": "",
+   "text": "Viață îngerească ai petrecut pe pământ, chip și pildă făcându-te ucenicilor tăi. Prin rugăciuni, posturi îndelungate și privegheri, te-ai învrednicit a sălășlui în pământul celor blânzi, Sfinte Daniil de Dumnezeu cinstitorule, podoaba sihaștrilor și lauda călugărilor.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-daniil-sihastrul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mucenic Sebastian și al celor împreună cu dânsul",
+   "glas": 4,
+   "podobie": "Cel Ce Te-ai Înălțat…",
+   "text": "Cu roșeala sângiurilor tale vopsindu-ți haina pătimirii, te-ai îmbrăcat ca și cu o porfiră, Prealăudate Sebastian. Pentru aceasta te-ai și sălășluit împreună cu Hristos întru Împărăția cea de sus și fără de sfârșit, împreună cu cei ce au pătimit cu tine și au primit cununi, înțelepte. Cu care împreună dănțuind, pomenește-ne totddeauna și pe noi.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-sebastian-al-celor-impreuna-cu-dansul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Sebastian",
+   "glas": 4,
+   "podobie": "",
+   "text": "Cu roșeala sângiuirilor tale vopsindu-ți haina pătimirii, te-ai îmbrăcat ca și cu o porfiră, lăudate Sebastiane. Pentru aceasta te-ai sălășluit împreună cu Hristos întru Împărăția cea de sus și fără de sfârșit, împreună cu cei ce au pătimit cu tine și au primit cununi, înțelepte. Cu care împreună dănțuind, pomenește-ne totdeauna și pe noi.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-sebastian",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Modest, Arhiepiscopul Ierusalimului",
+   "glas": 4,
+   "podobie": "",
+   "text": "Petrecând, înțelepte, viața ta cu cuvioșie, te-ai împodobit cu veșmântul cel luminat al arhieriei, sfințite nevoitorule Modest. Drept aceea, și nevoindu-te prea cu osârdie, Părinte, acum întru veselie împreună cu Hristos te bucuri, rugându-te pentru noi toți, care te lăudăm pe tine.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-modest-arhiepiscopul-ierusalimului",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

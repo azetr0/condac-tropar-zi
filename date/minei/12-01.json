@@ -1,0 +1,52 @@
+{
+ "zi": "12-01",
+ "pomeniri": [
+  "✝) Sfânta Anastasia, mama Sfântului Ierarh Andrei Șaguna",
+  "Sfântul Proroc Naum",
+  "Sfântul Cuvios Filaret cel Milostiv",
+  "1 decembrie – Ziua Națională a României"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "rand"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Proroc Naum",
+   "glas": 2,
+   "podobie": "",
+   "text": "A prorocului Tău, Doamne, Naum, pomenire prăznuind, printr-însul Te rugăm, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-proroc-naum",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Proroc Naum",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Luminându-se cu Duhul inima ta cea curată, s-a făcut locaș prealuminat de prorocie; că cele de departe le vezi ca și cum ar fi de față. Pentru aceasta te cinstim, Preafericite Prorocule Naum, Prealăudate.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-proroc-naum",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Anastasia, mama Sfântului Ierarh Andrei Șaguna",
+   "glas": 5,
+   "podobie": "Pe Cuvântul…",
+   "text": "Rădăcina cinstită și floarea mamelor, de Dumnezeu purtătoarea Anastasia, l-a dat pe Andrei, Ierarhul sfânt al Transilvaniei; dreapta credință a păstrat, viețuind în rugăciuni, în jertfă și în virtute, și a primit de la Domnul răsplătire și cunună veșnică.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-anastasia-mama-sfantului-ierarh-andrei-saguna",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Anastasia, mama Sfântului Ierarh Andrei Șaguna",
+   "glas": 8,
+   "podobie": "Apărătoare Doamnă…",
+   "text": "După dreptate îți cinstim înțelepciunea, mărturisirea dreptei credințe ortodoxe și virtuțile, Sfântă Anastasia, că vlăstar luminos ai dat Bisericii pe Andrei, bunul păstor al Ardealului, și cu el acum te rogi Domnului pentru noi.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-anastasia-mama-sfantului-ierarh-andrei-saguna",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

@@ -1,0 +1,130 @@
+{
+ "zi": "12-20",
+ "pomeniri": [
+  "✝) Sfântul Cuvios Serafim cel Răbdător de la Sâmbăta de Sus",
+  "Sfântul Sfințit Mucenic Ignatie Teoforul, Episcopul Antiohiei",
+  "Sfântul Ioan de Kronstadt",
+  "Înainte-prăznuirea Nașterii Domnului",
+  "Cinstirea Sfintei Icoane a Maicii Domnului din Novgorod",
+  "Cinstirea Sfintei Icoanei a Maicii Domnului „Salvatoarea de la înec”",
+  "✝) Duminica dinaintea Nașterii Domnului (a Sfinților Părinți după trup ai Domnului)"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "rand"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Părinți după trup ai Domnului",
+   "glas": 2,
+   "podobie": "",
+   "text": "Mari sunt faptele credinței; că în mijlocul izvorului văpăii, ca într-o apă de odihnă sfinții trei Tineri s-au bucurat și Proorocul Daniel păstor leilor ca unor oi s-a arătat. Pentru rugăciunile lor, Hristoase Dumnezeule, miluiește-ne pe noi.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-parinti-dupa-trup-ai-domnului",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 4,
+   "podobie": "",
+   "text": "Gătește-te Betleeme, că s-a deschis tuturor Edenul! Împodobește-te, Efrata, că Pomul vieții a înflorit în peșteră din Fecioară! Pentru că pântecele Aceleia Rai Înțelegător s-a arătat, întru care este Dumnezeiescul Pom, din care mâncând vom fi vii și nu vom muri ca Adam. Hristos Se naște, ca să ridice chipul cel căzut mai înainte.",
+   "sursa": "https://doxologia.ro/tropar-la-sarbatoarea-inainte-praznuirii-nasterii-domnului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților Părinți după trup ai Domnului",
+   "glas": 6,
+   "podobie": "",
+   "text": "Chipul cel scris de mână nu l-ați cinstit, căci cu Ființa Cea Nescrisă într-armându-vă, de trei ori fericiților, în lupta cu focul v-ați preamărit; și stând în mijlocul văpăii celei de nesuferit pe Dumnezeu L-ați chemat: grăbește, o Îndurate și sârguiește ca un Milostiv, spre ajutorul nostru că poți toate câte le voiești.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-parinti-dupa-trup-ai-domnului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Fecioara astăzi pe Cuvântul Cel mai înainte de veci merge să-L nască în peșteră în chip de negrăit. Dănțuiește lumea auzind, slăvește cu Îngerii și cu păstorii pe Cel Ce vine să Se arate Prunc Tânăr, pe Dumnezeu Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inainte-praznuirii-nasterii-domnului-0",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Serafim cel Răbdător de la Sâmbăta de Sus",
+   "glas": null,
+   "podobie": "",
+   "text": "Pe făclia virtuții și duhovnicul cel vestit, pe dascălul răbdării din Mănăstirea Sâmbăta de Sus, pe Sfântul Serafim, cei credincioși, cu laude veniți să îl cinstim, și, ca unui iscusit Părinte și rugător, să-i zicem cu evlavie: Slavă Celui pe Care L-ai slujit! Slavă Celui ce te-a luminat! Slavă Celui ce te-a împodobit cu minunate daruri!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-serafim-cel-rabdator-de-la-sambata-de-sus",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Serafim cel Răbdător de la Sâmbăta de Sus",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Înainte-mergere zilei preamari și slăvite a Nașterii Domnului cu trup din Maica-Fecioară s-a făcut ziua mutării tale la ceruri, cel ce cânți cu serafimii, Părinte Sfinte Serafim, cel în necazuri plin de răbdare, podoaba Cuvioșilor.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-serafim-cel-rabdator-de-la-sambata-de-sus",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Sfințit Mucenic Ignatie Teoforul",
+   "glas": 4,
+   "podobie": "",
+   "text": "Și părtaș obiceiurilor și următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnzeu însuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învățând și cu credință răbdând până la sânge, Sfințite Mucenice Ignatie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-sfintit-mucenic-ignatie-teoforul",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 4,
+   "podobie": "",
+   "text": "S-a înscris oarecând, cu bătrânul Iosif, în Betleem, Maria, ca cea din sămânța lui David, purtând în pântece sarcina cea fără de sămânță. Dar a sosit vremea nașterii și nici un loc de sălășluire nu era; ci, ca un palat frumos s-a arătat peștera împărătesei. Hristos Se naște, ca să ridice chipul cel mai înainte căzut.",
+   "sursa": "https://doxologia.ro/tropar-la-sarbatoarea-inainte-praznuirii-nasterii-domnului-0",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ioan de Kronstadt",
+   "glas": 1,
+   "podobie": "",
+   "text": "Toată grija cea lumească lepădând, cu un glas să lăudăm pe cel ce este lumină călăuzitoare pământului Rusiei și lumii întregi, pe preotul Ioan, bunul păstor, care ne-a arătat nouă strălucitorul chip al viețuirii în Hristos, și pe pământ fiind, de duhul rugăciunii s-a aprins, și de la Domnul îndoit dar de tămăduire a dobândit. Cu ale lui sfinte rugăciuni, întru credință să ne întărească pe noi Hristos, și fii neclintiți ai Bisericii să ne arate, spre mântuirea sufletelor noastre!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ioan-de-kronstadt",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Sfințit Mucenic Ignatie Teoforul",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Ziua cea purtătoare de lumină a strălucitoarelor tale nevoințe vestește mai înainte tuturor pe Cel ce S-a născut din Fecioara; că de Acesta însetând și din dragostea de a te îndulci de El, te-ai grăbit a fi măcinat de fiare. Pentru aceasta de Dumnezeu purtător ai fost numit, Ignatie, mărite.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-sfintit-mucenic-ignatie-teoforul",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainteprăznuirii Nașterii Domnului",
+   "glas": 1,
+   "podobie": "Ceata îngerească…",
+   "text": "Veselește-te Betleeme, Efrata gătește-te; că iată Mielușeaua, purtând în pântece pe Păstorul Cel Mare, se grăbește să-L nască; pe Care văzându-L purtătorii de Dumnezeu Părinți, se bucură împreună cu păstorii, lăudând pe Fecioara, care Îl hrănește cu lapte.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inaintepraznuirii-nasterii-domnului",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 2,
+   "podobie": "Cele de sus căutând…",
+   "text": "În Betleem văzând cu scutece înfășat pe Cel Ce ține tot pământui cu mâna, cântări de înainteprăznuire să aducem Celei ce L-a născut; că se veselește ca o Maică, ținând în brațe pe Fiul lui Dumnezeu.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inainte-praznuirii-nasterii-domnului",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

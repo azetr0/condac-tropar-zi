@@ -1,0 +1,89 @@
+{
+ "zi": "12-19",
+ "pomeniri": [
+  "✝) Sfânta Cuvioasă Muceniță Evloghia de la Samurcășești",
+  "Sfântul Mucenic Bonifatie",
+  "Sfânta Cuvioasă Aglaia",
+  "Sfântul Ierarh Grichentie, Episcopul Etiopiei",
+  "Sâmbăta dinaintea Nașterii Domnului"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "rand"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Mucenic Bonifatie",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mucenicul tău, Doamne, Bonifatie, întru nevoința sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-mucenic-bonifatie",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mucenic Bonifatie",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Jertfă fără de prihană te-ai adus pe tine de voie, Celui rânduit a Se naște din Fecioara pentru tine, Sfinte purtătorule de cunună, Înțelepte Bonifatie.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-bonifatie",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Cuvioase Mucenițe Evloghia de la Samurcășești",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mielușeaua Ta, Iisuse, Evloghia, strigă cu mare glas: Pe Tine Mirele meu Te iubesc și spre Tine căutând mă chinuiesc și împreună mă răstignesc și împreună mă îngrop prin botezul Tău și pătimesc pentru Tine, ca să împărățesc cu Tine; și mor pentru Tine, ca să și viez întru Tine, deci, ca o jertfa fără prihană, primește-mă pe mine ceea ce cer dragoste, mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-cuvioase-mucenite-evloghia-de-la-samurcasesti",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Cuvioase Mucenițe Evloghia de la Samurcășești",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Întâi Maica Domnului ți-a vindecat a ta boală, apoi te-a trimis Hristos la propovăduire. Tuturor le-ai vestit mântuirea, suferinzilor le-ai adus alinare, Sfântă Evloghia, de-aceea ne rugăm ție și cu evlavie te cinstim.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-cuvioase-mucenite-evloghia-de-la-samurcasesti-0",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Cuvioase Mucenițe Evloghia de la Samurcășești",
+   "glas": 1,
+   "podobie": "",
+   "text": "Celui ce a răsărit din Fecioară, Mai – Marelui Păstorilor, ca o oaie de turmă ai urmat, Cuvioasă Maică a noastră, Evloghia. Cu înfrânarea, cu postul, cu privegherea și cu rugăciunile, te-ai făcut lucrătoare fierbinte de cele cerești, tămăduind sufletele celor ce aleargă la tine cu credință. Slavă Celui ce te-a preamărit pe tine, slavă Celui ce ți-a dat ție putere, slavă Celui ce a arătat tuturor prin tine îndreptare.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-cuvioase-mucenite-evloghia-de-la-samurcasesti-0",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Cuvioase Mucenițe Evloghia de la Samurcășești",
+   "glas": 3,
+   "podobie": "",
+   "text": "Suferința ta cea din pruncie în sfințenie și-a vădit rodul, când, luminată de Duhul Sfânt, cu îndrăznire propovăduit-ai pocăința poporului, mucenicește sfârșind, ca apostolii; de-aceea roagă-te, Sfântă Cuvioasă Evloghia, să se mântuiască sufletele noasrtre.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-cuvioase-mucenite-evloghia-de-la-samurcasesti-1",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Cuvioase Mucenițe Evloghia de la Samurcășești",
+   "glas": 3,
+   "podobie": "Pentru mărturisirea…",
+   "text": "Suferința ta cea din pruncie în sfințenie și-a vădit rodul, când, luminată fiind de Preasfântul Duh, propovăduit-ai pocăința poporului, mucenicește sfârșind, ca apostolii; de aceea roagă-te, Sfânt Cuvioasă Evloghia, să se mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-cuvioase-mucenite-evloghia-de-la-samurcasesti-2",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Cuvioase Mucenițe Evloghia de la Samurcășești",
+   "glas": null,
+   "podobie": "",
+   "text": "Călătorind pe căile mântuirii, Cuvioasă Muceniță Evloghia, prea cinstită, ai fugit de sfatul părintesc și ai intrat în curțile Domnului tău, întocmai ca o fecioară înțeleaptă purtătoare de făclie! Pentru aceasta ai câștigat aur de mult preț, ca să vindeci toată boala oamenilor, Mireasă aleasă și muceniță cuvioasă, care stai împodobită înaintea Mirelui tău Cel prea dorit și îndurat. Dezleagă legăturile patimilor noastre cu rugăciunile tale.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-cuvioase-mucenite-evloghia-de-la-samurcasesti",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

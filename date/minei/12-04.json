@@ -1,0 +1,78 @@
+{
+ "zi": "12-04",
+ "pomeniri": [
+  "✝ Sfânta Mare Muceniță Varvara",
+  "Sfântul Cuvios Ioan Damaschin",
+  "Sfântul Preot Mărturisitor Alexandru Hotovitzky"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Mari Mucenițe Varvara",
+   "glas": 4,
+   "podobie": "",
+   "text": "Pe Sfânta Mare Muceniță Varvara să o cinstim; că a sfărâmat cursele vrăjmasului și ca o vrăbioară s-a izbăvit dintr-însele, cu ajutorul Armei Crucii, Preacinstita.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-mari-mucenite-varvara",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Ioan Damaschin",
+   "glas": 8,
+   "podobie": "",
+   "text": "Îndreptătorule al Ortodoxiei, învățătorule al dreptei cinstiri de Dumnezeu și al curăției și luminătorule al lumii, podoaba călugărilor cea de Dumnezeu insuflată Sfinte Părinte Ioan, înțelepte, cu învățăturile tale pe toți i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-ioan-damaschin",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Mari Mucenițe Varvara",
+   "glas": 4,
+   "podobie": "Cel Ce Te-ai Înălțat…",
+   "text": "Lui Hristos, Celui în Treime cu evlavie Lăudat, urmându-i tu, purtătoare de biruință, ai nimicit templele idolilor; și luptând în mijlocul locului de pătimire, Sfântă Muceniță Varvara, nu te-ai temut de amenințările tiranilor, ceea ce ai avut îndrăznire bărbătească, cu glas mare cântând pururea: cinstesc Preasfânta Treime, Dumnezeirea Cea Una.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-mari-mucenite-varvara",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Ioan Damaschin",
+   "glas": 4,
+   "podobie": "Cel Ce Te-ai Înălțat…",
+   "text": "Pe scriitorul de cântări și cinstitul grăitor de Dumnezeu, pe învățătorul Bisericii, pe dascălul și luptătorul împotriva vrăjmașilor, pe Sfântul Ioan să-l lăudăm. Că luând Crucea Domnului toată înșelăciunea eresurilor a alungat-o și ca un cald mijlocitor către Dumnezeu, tuturor cere iertare de greșeli.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-ioan-damaschin",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Ioan Damaschin",
+   "glas": 4,
+   "podobie": "",
+   "text": "Pe râul cel de aur curgător, pe Ioan, ocrotitorul Mănăstirii Sfântului Sava, pe cel ce de la Răsărit a luminat ca un soare pe pământ, pe lira Duhului, pe marele cuvântător de Dumnezeu, cu dragoste să-l rugăm întru umilința inimii, dintru adânc strigându-i cu căldură: Păzește-ne pe noi, Părinte, cu rugăciunile tale.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-ioan-damaschin-0",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Ioan Damaschin",
+   "glas": 3,
+   "podobie": "",
+   "text": "Al Bisericii dumnezeiesc propovăduitor, harpă bine răsunătoare a dreptei credințe, te-ai arătat, Ioane prealăudate, pentru care luminezi marginile lumii cu strălucirile înțeleptelor tale dogme; Părinte Cuvioase, pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-ioan-damaschin-1",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Ioan Damaschin",
+   "glas": 2,
+   "podobie": "Ceea ce ești folositoare…",
+   "text": "Ocrotire neînfrântă a monahilor și solire bine-primită către Răscumpărătorul fiind, nu trece cu vederea, Părinte, rugăciunile cele stăruitoare, ci apără-ne cu ajutorul tău cel părintesc pe noi, cei ce cu laudă strigăm: Bucură-te, o, Ioane, izvorul teologiei, dulceața drept-slăvitorilor și bucuria lumii.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-ioan-damaschin-0",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

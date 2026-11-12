@@ -1,0 +1,83 @@
+{
+ "zi": "12-21",
+ "pomeniri": [
+  "Sfânta Muceniță Iuliana din Nicomidia",
+  "Sfântul Ierarh Petru, Mitropolitul Moscovei",
+  "Înainte-prăznuirea Nașterii Domnului",
+  "Sfântul Mucenic Temistocle",
+  "21 decembrie – Ziua Memoriei Victimelor Comunismului în România"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Mucenițe Iuliana din Nicomidia",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mielușeaua Ta, Iisuse, Iuliana, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un Milostiv, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-mucenite-iuliana-din-nicomidia",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 4,
+   "podobie": "",
+   "text": "Gătește-te Betleeme, că s-a deschis tuturor Edenul! Împodobește-te, Efrata, că Pomul vieții a înflorit în peșteră din Fecioară! Pentru că pântecele Aceleia Rai Înțelegător s-a arătat, întru care este Dumnezeiescul Pom, din care mâncând vom fi vii și nu vom muri ca Adam. Hristos Se naște, ca să ridice chipul cel căzut mai înainte.",
+   "sursa": "https://doxologia.ro/tropar-la-sarbatoarea-inainte-praznuirii-nasterii-domnului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Mucenițe Iuliana din Nicomidia",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Cu frumusețile fecioriei împodobindu-te, fecioară și cu cununa muceniciei acum încununându-te, Sfântă Muceniță Iuliana, dăruiești tămăduiri celor ce sunt în nevoi și boli și izbăvire celor ce se apropie de racla ta, din care Hristos, izvorăște Dumnezeiesc dar și viața cea veșnică.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-mucenite-iuliana-din-nicomidia",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Fecioara astăzi pe Cuvântul Cel mai înainte de veci merge să-L nască în peșteră în chip de negrăit. Dănțuiește lumea auzind, slăvește cu Îngerii și cu păstorii pe Cel Ce vine să Se arate Prunc Tânăr, pe Dumnezeu Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inainte-praznuirii-nasterii-domnului-0",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 4,
+   "podobie": "",
+   "text": "S-a înscris oarecând, cu bătrânul Iosif, în Betleem, Maria, ca cea din sămânța lui David, purtând în pântece sarcina cea fără de sămânță. Dar a sosit vremea nașterii și nici un loc de sălășluire nu era; ci, ca un palat frumos s-a arătat peștera împărătesei. Hristos Se naște, ca să ridice chipul cel mai înainte căzut.",
+   "sursa": "https://doxologia.ro/tropar-la-sarbatoarea-inainte-praznuirii-nasterii-domnului-0",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainteprăznuirii Nașterii Domnului",
+   "glas": 1,
+   "podobie": "Ceata îngerească…",
+   "text": "Veselește-te Betleeme, Efrata gătește-te; că iată Mielușeaua, purtând în pântece pe Păstorul Cel Mare, se grăbește să-L nască; pe Care văzându-L purtătorii de Dumnezeu Părinți, se bucură împreună cu păstorii, lăudând pe Fecioara, care Îl hrănește cu lapte.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inaintepraznuirii-nasterii-domnului",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 2,
+   "podobie": "Cele de sus căutând…",
+   "text": "În Betleem văzând cu scutece înfășat pe Cel Ce ține tot pământui cu mâna, cântări de înainteprăznuire să aducem Celei ce L-a născut; că se veselește ca o Maică, ținând în brațe pe Fiul lui Dumnezeu.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inainte-praznuirii-nasterii-domnului",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

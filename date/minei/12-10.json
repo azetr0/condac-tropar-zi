@@ -1,0 +1,42 @@
+{
+ "zi": "12-10",
+ "pomeniri": [
+  "Sfântul Mucenic Ermoghen",
+  "Sfântul Mucenic Mina",
+  "Sfântul Mucenic Evgraf"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Mucenici Mina, Ermoghen și Evgraf",
+   "glas": 8,
+   "podobie": "",
+   "text": "Cu înfrânarea omorând pornirile și îndemnurile cele arzătoare ale patimilor, ucenicii lui Hristos au luat harul de a alunga urmările bolilor celor neputincioși și a face minuni, atât în viață, cât și după moarte. Minune uimitoare cu adevărat! Că oase goale izvorăsc tămăduiri. Slavă Ție, Singurului Dumnezeu și Ziditorului.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-mucenici-mina-ermoghen-evgraf",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților Mucenici Mina, Ermoghen și Evgraf",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Ca niște stele strălucitoare ați împuținat în chip desăvârșit noaptea credinței în idoli și ați luminat inimile credincioșilor cu lumina cunoștinței de Dumnezeu și i-ați arătat vase cinstite ale Duhului. Pentru aceasta lăudăm sfântă pomenirea voastră, mucenicilor preamăriți.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-mucenici-mina-ermoghen-evgraf",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Mucenic Mina",
+   "glas": 2,
+   "podobie": "Căutând la cele de sus…",
+   "text": "Încingându-te Dumnezeiește cu Marele și Cinstitul Nume al lui Hristos, ca și cu o armă, ai rușinat pe vrăjmașul și ai primit cununa biruinței. Ci, Mărite Mucenice Mina, nu înceta rugându-te pentru noi toți.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-mucenic-mina",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

@@ -1,0 +1,55 @@
+{
+ "zi": "12-15",
+ "pomeniri": [
+  "Sfântul Sfințit Mucenic Elefterie, Episcopul Iliriei",
+  "Sfântul Cuvios Pavel",
+  "Sfânta Muceniță Antia"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "nascatoare": {
+  "glas": 4,
+  "fel": "zi"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Sfințit Mucenic Elefterie, Episcopul Iliriei",
+   "glas": 5,
+   "podobie": "Pe Cuvântul Cel împreună…",
+   "text": "Cu haină de preot fiind împodobit și cu sângele curgând șiroaie, fericite, ai alergat la Stăpânul tău, Hristos, Înțelepte Elefterie, nimicitorul satanei. Pentru aceasta nu înceta a te ruga pentru cei ce cu credință cinstesc fericitele tale nevoințe.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-sfintit-mucenic-elefterie-episcopul-iliriei",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Pavel din Latro",
+   "glas": 5,
+   "podobie": "Pe Cuvântul Cel împreună…",
+   "text": "Ca cel ce ești împreună locuitor cu cei fără de trup și tuturor cuvioșilor părtaș, Prealăudate Pavel, pe tine te lăudăm și ne rugăm ție: roagă-te pentru noi ca întotdeauna să aflăm milă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-pavel-din-latro",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Sfințit Mucenic Elefterie, Episcopul Iliriei",
+   "glas": 2,
+   "podobie": "Pe propovăduitorii cei tari…",
+   "text": "Ca pe o podoabă a preoților și îndemn al purtătorilor de biruință, toți te lăudăm, cuvioase și te rugăm, Sfințite Mucenice Elefterie: pe cei ce prăznuiesc sfântă pomenirea ta eliberează-i din multele feluri de nevoi, rugându-te neîncetat pentru noi toți.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-sfintit-mucenic-elefterie-episcopul-iliriei",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Sfințit Mucenic Elefterie",
+   "glas": 4,
+   "podobie": "",
+   "text": "Și părtaș obiceiurilor și următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învățând și cu credința răbdând până la moarte, Sfințite Mucenice Elefterie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-sfintit-mucenic-elefterie",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

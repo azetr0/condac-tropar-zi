@@ -1,0 +1,33 @@
+{
+ "zi": "12-06",
+ "pomeniri": [
+  "✝) Sfântul Ierarh Nicolae, Arhiepiscopul Mirelor Lichiei",
+  "Sfântul Sfințit Mucenic Grigorie Peradze din Georgia",
+  "✝) Duminica a 27-a după Rusalii (Tămăduirea femeii gârbove)"
+ ],
+ "cruce": "rosie",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Nicolae, Arhiepiscopul Mirelor Lichiei",
+   "glas": 4,
+   "podobie": "",
+   "text": "Îndreptător credinței și chip blândețelor, învățător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte și cu sărăcia cele bogate; Părinte Ierarhe Nicolae, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-nicolae-arhiepiscopul-mirelor-lichiei",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Nicolae, Arhiepiscopul Mirelor Lichiei",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "În Mira, Sfinte, sfințitor te-ai arătat; că Evanghelia lui Hristos plinind-o, cuvioase, ți-ai pus sufletul tău pentru poporul tău; mântuit-ai pe cei nevinovați din moarte. Pentru aceasta te-ai sfințit ca un mare tăinuitor al darului lui Dumnezeu.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-nicolae-arhiepiscopul-mirelor-lichiei",
+   "principal": true
+  }
+ ],
+ "verificat": true
+}

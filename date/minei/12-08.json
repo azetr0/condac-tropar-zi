@@ -1,0 +1,42 @@
+{
+ "zi": "12-08",
+ "pomeniri": [
+  "Sfântul Cuvios Patapie",
+  "Înainte-prăznuirea Sfintei Ana",
+  "Sfântul Apostol Tihic"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Patapie",
+   "glas": 8,
+   "podobie": "",
+   "text": "Întru tine, părinte, cu osârdie s-a mântuit cel după chip; că luând crucea ai urmat lui Hristos; și lucrând ai învățat să nu se uite la trup, că este trecător; ci, să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta și cu îngerii împreună se bucură, Preacuvioase Părinte Patapie, duhul tău.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-patapie-0",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Patapie",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Biserica ta, sfinte, aflând-o popoarele locaș de sănătate duhovnicească, cu osârdie venind la ea cer ca să ia vindecare de greșeli cu rugăciunile tale; că te-ai arătat ocrotitor tuturor celor ce sunt în nevoi, Sfinte Părinte Patapie, Preacuvioase.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-patapie",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Patapie",
+   "glas": null,
+   "podobie": "",
+   "text": "Laudă a creștinilor și apărător al monahilor te-ai arătat Patapie, părintele nostru. Prin nevoință, prin patimi și rugăciuni ai acum îndrăznire către Dumnezeu a mijloci neîncetat pentru noi creștinii, cei păcătoși și vrednici de osândă. Slavă Celui Ce S-a proslăvit prin tine, slavă Celui Ce ți-a dat ție putere, slavă Celui Ce ne-a luminat pe noi prin nevoința ta.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-patapie",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

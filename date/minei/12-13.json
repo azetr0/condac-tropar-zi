@@ -1,0 +1,115 @@
+{
+ "zi": "12-13",
+ "pomeniri": [
+  "✝) Sfântul Ierarh Dosoftei, Mitropolitul Moldovei",
+  "✝ Sfântul Mare Mucenic Evghenie",
+  "✝ Sfântul Mare Mucenic Auxentie",
+  "✝ Sfântul Mare Mucenic Eustratie",
+  "✝ Sfântul Mare Mucenic Orest",
+  "✝ Sfântul Mare Mucenic Mardarie",
+  "Sfânta Muceniță Lucia, fecioara",
+  "Sfântul Cuvios Gherman de Alaska",
+  "Sfânta Cuvioasă Otilia",
+  "✝) Duminica a 28-a după Rusalii (a Sfinților Strămoși – Pilda celor poftiți la cină)"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "rand"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Duminica Sfinților Strămoși",
+   "glas": 2,
+   "podobie": "",
+   "text": "Întru credință pe Strămoși i-ai îndreptat, printr-înșii logodindu-Ți mai înainte Biserica cea din păgâni; sunt lăudați întru mărire Sfinții, că din sămânța lor este Rodul care Te-a născut pe Tine fără de sămânță. Cu rugăciunile lor, Hristoase Dumnezeule, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/tropar-la-duminica-sfintilor-stramosi",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Ierarh Dosoftei, Mitropolitul Moldovei",
+   "glas": 8,
+   "podobie": "",
+   "text": "Apărătorule al Ortodoxiei și învățătorule al sfințeniei, păstor blând ca un miel și mare dascăl al Sfintei Liturghii, Părinte Ierarhe Dosoftei, roagă pe Hristos-Dumnezeu să mântuiască sufletele noastre!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-ierarh-dosoftei-mitropolitul-moldovei",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Ierarh Dosoftei",
+   "glas": 3,
+   "podobie": "",
+   "text": "Arătatu-te-ai bun lucrător în via lui Hristos, folosind cuvântul Evangheliei Domnului la povățuirea dreptcredincioșilor pe calea mântuirii, ca un adevărat păstor duhovnicesc al Bisericii și slujitor al oamenilor. Credința păzind-o și pe credincioși către Dumnezeu îndreptându-i, întărești nădejdea în sufletele celor care te cinstesc, fericite ierarhe.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-ierarh-dosoftei",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților Mari Mucenici Eustratie, Auxentie, Evghenie, Mardarie și Orest",
+   "glas": 3,
+   "podobie": "",
+   "text": "Statornicia purtătorilor de biruință, cei cinci la număr: Sfinții Mari Mucenici Eustratie și Auxentie împreună cu ceilalți luptători, înfruntând cu îndrăzneală focul și celelalte chinuri, au primit de la Hristos cununile măririi; Căruia se și roagă, să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-mari-mucenici-eustratie-auxentie-evghenie-mardarie-orest",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Mucenițe Lucia fecioara din Siracuza",
+   "glas": 4,
+   "podobie": "",
+   "text": "Mielușeaua Ta, Iisuse, Lucia, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un Milostiv, mântuiește sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-mucenite-lucia-fecioara-din-siracuza",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Gherman de Alaska",
+   "glas": 2,
+   "podobie": "",
+   "text": "Nevoitorule al pustiirilor nordice și rugător pentru întreaga lume, învățător Ortodoxiei și chip al evlaviei, podoaba Alaskăi și veselia Americii, Sfinte Părinte Gherman, roagă-te pentru noi!",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-gherman-de-alaska",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Gherman de Alaska",
+   "glas": 8,
+   "podobie": "",
+   "text": "Icoană a toată făptuirea și contemplarea în Mănăstirea Noul Valaam te-ai arătat, locuitorilor Alaskăi lumina Evangheliei revărsându-o, cel de-o-minte cu Apostolii, Gherman fericite; și acum, solește către Domnul să risipească întunericul patimilor noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-gherman-de-alaska-0",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților Mari Mucenici Eustratie, Auxentie, Evghenie, Mardarie și Orest",
+   "glas": 2,
+   "podobie": "Pe Născătoarea de Dumnezeu…",
+   "text": "Luminător prealuminos te-ai arătat celor ce ședeau întru întunericul necunoștinței, purtătorule de biruință. Că agonisindu-ți credința ca pe un scut, nu te-ai temut de semețiile vrăjmașilor, Sfinte Mucenice Eustratie, arătându-te mai bun vorbitor decât ritorii.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-mari-mucenici-eustratie-auxentie-evghenie-mardarie-orest",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Mucenițe Lucia fecioara din Siracuza",
+   "glas": 2,
+   "podobie": "Pe Născătoarea de Dumnezeu…",
+   "text": "Nevoindu-te cu deadinsul și păstrând fecioria nestricată, bucurându-te, te-ai adus Făcătorului tău. Că lepădându-te de mirele cel lumesc, prealăudată, te-ai logodit cu Hristos și săvârșind călătoria prin credință și prin luminată mucenicie, dai acum tămăduiri celor ce te cinstesc pe tine.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-mucenite-lucia-fecioara-din-siracuza",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Gherman de Alaska",
+   "glas": 8,
+   "podobie": "Apărătoarei Doamne…",
+   "text": "Flacăra credinței sălășluindu o în inimă, și de focul părtășiei împăratului a toate arzând nemistuit, în Alaska ai topit gheața sufletelor, Sfinte, următorul isihaștilor și slăvite propovăduitorule, pentru care strigăm ție: Bucură-te, Cuvioase Gherman, luceafărul Americii.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-gherman-de-alaska",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

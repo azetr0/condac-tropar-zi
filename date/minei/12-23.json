@@ -1,0 +1,129 @@
+{
+ "zi": "12-23",
+ "pomeniri": [
+  "✝) Sfânta Cuvioasă Antonina de la Tismana",
+  "Sfântul Nifon, Episcop de Constanțiana",
+  "Sfinții 10 Mucenici din Creta",
+  "Sfântul Cuvios Naum",
+  "Înainte-prăznuirea Nașterii Domnului",
+  "Sfântul Ierarh Pavel, Arhiepiscopul Neocezareei"
+ ],
+ "cruce": "neagra",
+ "slujba": {
+  "fel": "rand"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților 10 Mucenici din Creta",
+   "glas": 3,
+   "podobie": "",
+   "text": "Creta cea mult minunată să o cinstim, că a înflorit flori cinstite, pe mărgăritarele lui Hristos, stâlpările mucenicilor. Că zece sunt la număr, fericiții și toată mulțimea demonilor au rușinat. Pentru aceasta și cununi au luat mucenicii lui Hristos, cei cu sufletul răbdător.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-10-mucenici-din-creta-0",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 4,
+   "podobie": "",
+   "text": "Gătește-te Betleeme, că s-a deschis tuturor Edenul! Împodobește-te, Efrata, că Pomul vieții a înflorit în peșteră din Fecioară! Pentru că pântecele Aceleia Rai Înțelegător s-a arătat, întru care este Dumnezeiescul Pom, din care mâncând vom fi vii și nu vom muri ca Adam. Hristos Se naște, ca să ridice chipul cel căzut mai înainte.",
+   "sursa": "https://doxologia.ro/tropar-la-sarbatoarea-inainte-praznuirii-nasterii-domnului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților 10 Mucenici din Creta",
+   "glas": 4,
+   "podobie": "Arătatu-Te-ai astăzi…",
+   "text": "Ca un Luceafăr a strălucit cinstita pătimire a mucenicilor, care mai înainte ne-a arătat, în chip luminat, pe Cel Născut în peșteră; pe Care Fecioara L-a născut fără de sămânță.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-10-mucenici-din-creta",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Fecioara astăzi pe Cuvântul Cel mai înainte de veci merge să-L nască în peșteră în chip de negrăit. Dănțuiește lumea auzind, slăvește cu Îngerii și cu păstorii pe Cel Ce vine să Se arate Prunc Tânăr, pe Dumnezeu Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inainte-praznuirii-nasterii-domnului-0",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfintei Cuvioase Antonina de la Tismana",
+   "glas": 8,
+   "podobie": "",
+   "text": "Întru tine, maică, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; și lucrând, ai învățat să nu se uite la trup, căci este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta și cu îngerii împreună se bucură, Cuvioasă Maică Antonina, duhul tău.",
+   "sursa": "https://doxologia.ro/troparul-sfintei-cuvioase-antonina-de-la-tismana",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Nifon, Episcop de Constantiana",
+   "glas": 3,
+   "podobie": "",
+   "text": "Făcându-te cinstit lăcaș al dumnezeiescului har, Nifone, te-ai arătat păstor al Bisericii, de Dumnezeu chemat; chipuri de pocăință ai învățat și te-ai îmbogățit cu darul nepătimirii, Părinte cuvioase, roagă-L pe Hristos Dumnezeu să ne dăruiască mare milă.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-nifon-episcop-de-constantiana",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfintei Cuvioase Antonina de la Tismana",
+   "glas": 1,
+   "podobie": "",
+   "text": "Cel ce din iubire toate le-a zidit prin cuvânt și a luat trup de bună voie din Preacurata Sa Maică, te-a chemat să-I urmezi, Cuvioasă Maică Antonina, iar tu neîncetat L-ai chemat în rugăciune, cu smerenie. Pentru aceasta, dobândind daruri cerești, împreună cu sfinții de la Tismana, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/condacul-sfintei-cuvioase-antonina-de-la-tismana",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Naum",
+   "glas": null,
+   "podobie": "",
+   "text": "Ucenic vrednic al Sfinților Chiril și Metodie, te-ai arătat fericite,Și tămăduiri din destul ai revărsat cu dragoste sufletelor smerite,Ca cel ce te-ai arătat luminător mare celor din întunericul neștiinței,Cu raza rugăciunii tale ne înconjoară și pe noi în ceasul umilinței.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-naum",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 4,
+   "podobie": "",
+   "text": "S-a înscris oarecând, cu bătrânul Iosif, în Betleem, Maria, ca cea din sămânța lui David, purtând în pântece sarcina cea fără de sămânță. Dar a sosit vremea nașterii și nici un loc de sălășluire nu era; ci, ca un palat frumos s-a arătat peștera împărătesei. Hristos Se naște, ca să ridice chipul cel mai înainte căzut.",
+   "sursa": "https://doxologia.ro/tropar-la-sarbatoarea-inainte-praznuirii-nasterii-domnului-0",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Cuvios Naum",
+   "glas": null,
+   "podobie": "",
+   "text": "Râuri de minuni s-au revărsat din norii rugăciunilor tale,Și ca un soare ai luminat pe cei aflați în întunecare,Vistieriile darurilor deschide cu cheia rugăciunii tale,Și ne dă tuturor ajutor ca să străbatem a inimii cale.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-cuvios-naum",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainteprăznuirii Nașterii Domnului",
+   "glas": 1,
+   "podobie": "Ceata îngerească…",
+   "text": "Veselește-te Betleeme, Efrata gătește-te; că iată Mielușeaua, purtând în pântece pe Păstorul Cel Mare, se grăbește să-L nască; pe Care văzându-L purtătorii de Dumnezeu Părinți, se bucură împreună cu păstorii, lăudând pe Fecioara, care Îl hrănește cu lapte.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inaintepraznuirii-nasterii-domnului",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Sărbătoarea Înainte-prăznuirii Nașterii Domnului",
+   "glas": 2,
+   "podobie": "Cele de sus căutând…",
+   "text": "În Betleem văzând cu scutece înfășat pe Cel Ce ține tot pământui cu mâna, cântări de înainteprăznuire să aducem Celei ce L-a născut; că se veselește ca o Maică, ținând în brațe pe Fiul lui Dumnezeu.",
+   "sursa": "https://doxologia.ro/condac-la-sarbatoarea-inainte-praznuirii-nasterii-domnului",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

@@ -1,0 +1,99 @@
+{
+ "zi": "12-27",
+ "pomeniri": [
+  "✝ Sfântul Apostol, Întâiul Mucenic și Arhidiacon Ștefan",
+  "Sfântul Cuvios Teodor Mărturisitorul",
+  "✝) Duminica după Nașterea Domnului (a Sfinților Iosif Logodnicul, David Prorocul și Iacob, ruda Domnului. Fuga în Egipt)"
+ ],
+ "cruce": "rosie",
+ "slujba": {
+  "fel": "polieleu"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Duminica după Nașterea Domnului",
+   "glas": 2,
+   "podobie": "",
+   "text": "Binevestește Iosif lui David, Dumnezeiescului părinte, minunile: văzut-ai pe Fecioara născând; cu magii te-ai închinat; cu păstorii ai slăvit și prin îngeri înștiințare ai primit. Roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/tropar-la-duminica-dupa-nasterea-domnului",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Apostol Întâiului Mucenic și Arhidiacon Ștefan",
+   "glas": 4,
+   "podobie": "",
+   "text": "Încununatu-s-a creștetul tău cu diademă împărătească, pe urma luptelor pe care le-ai pătimit pentru Hristos Dumnezeu, luptătorule cel dintâi printre mucenici. Că vădind nebunia iudeilor, ai văzut pe Mântuitorul tău, de-a dreapta Tatălui. Pe Acela roagă-L totdeauna pentru sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-apostol-intaiului-mucenic-arhidiacon-stefan",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 4,
+   "podobie": "",
+   "text": "Nașterea Ta, Hristoase, Dumnezeul nostru, răsărit-a lumii lumina cunoștinței; că întru dânsa cei ce slujeau stelelor de la Stea s-au învățat să se închine Ție, Soarelui dreptății și să Te cunoască pe Tine, Răsăritul Cel de sus, Doamne, Slavă Ție!",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântul Apostol Întâiului Mucenic și Arhidiacon Ștefan",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Stăpânul nostru, ieri a venit la noi cu Trup, iar astăzi sluga Lui a ieșit cu totul din trup; ieri Împăratul nostru S-a născut cu Trup, astăzi sluga cu pietre este ucisă; că pentru Dânsul se și sfârșește întâiul mucenic și Dumnezeiescul Ștefan.",
+   "sursa": "https://doxologia.ro/condacul-sfantul-apostol-intaiului-mucenic-arhidiacon-stefan",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Duminica după Nașterea Domnului",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "De veselie astăzi, Dumnezeiescul David se umple; și Dreptul Iosif împreună cu Iacob, laudă aduce; că luând cunună pentru înrudirea cu Hristos se bucură; și pe Cel Ce s-a născut în chip de negrăit pe pământ, Îl laudă și strigă: mântuiește, Îndurate, pe cei ce Te cinstesc pe Tine.",
+   "sursa": "https://doxologia.ro/condac-la-duminica-dupa-nasterea-domnului",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Fecioara astăzi, pe Cel mai presus de ființă naște și pământul peștera Celui Neapropiat aduce. Îngerii cu păstorii slavoslovesc și magii cu Steaua călătoresc. Că pentru noi s-a născut Prunc Tânăr, Dumnezeu, Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condac-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Apostol și Arhidiacon Ștefan",
+   "glas": 4,
+   "podobie": "",
+   "text": "Încununatu-s-a creștetul tău cu diademă împărătească, pe urma luptelor pe care le-ai pătimit pentru Hristos Dumnezeu, luptătorule cel dintâi printre mucenici. Că vădind nebunia iudeilor, ai văzut pe Mântuitorul tău, de-a dreapta Tatălui. Pe Acela roagă-L totdeauna pentru sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-apostol-arhidiacon-stefan",
+   "principal": false
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului Cuvios Teodor Mărturisitorul",
+   "glas": 8,
+   "podobie": "",
+   "text": "Îndreptătorule al Ortodoxiei, învățătorule al dreptei cinstiri de Dumnezeu și al curăției și luminătorule al lumii, podoaba călugărilor cea de Dumnezeu insuflată Sfinte Părinte Teodor, înțelepte, cu învățăturile tale pe toți i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-cuvios-teodor-marturisitorul",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului Apostol și Arhidiacon Ștefan",
+   "glas": 3,
+   "podobie": "Fecioara astăzi …",
+   "text": "Stăpânul nostru, ieri a venit la noi cu trup, iar astăzi sluga Lui a ieșit cu totul din trup; ieri Împăratul noastru S-a născut cu trup, astăzi sluga cu pietre este ucisă; că pentru Dânsul se și sfârșește întâiul mucenic și dumnezeiescul Ștefan.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-apostol-arhidiacon-stefan",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}

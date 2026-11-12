@@ -1,0 +1,82 @@
+{
+ "zi": "12-28",
+ "pomeniri": [
+  "Sfântul Simon Izvorâtorul de mir, ctitorul Mănăstirii Simonos Petras",
+  "Sfinții 20.000 de Mucenici arși în Nicomidia",
+  "Sfântul și Dreptul Iosif, Logodnicul Sfintei Fecioare Maria",
+  "Monahul Lazăr Dionisiatul (a. 28 Decembrie 1974)"
+ ],
+ "cruce": null,
+ "slujba": {
+  "fel": "rand"
+ },
+ "nascatoare": {
+  "fel": "fara"
+ },
+ "imne": [
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfinților 20.000 de Mucenici din Nicomidia",
+   "glas": 2,
+   "podobie": "",
+   "text": "Purtătorilor de biruință ai Domnului, fericit este pământul care s-a adăpat cu sângiurile voastre și sfinte sunt locașurile care au primit trupurile voastre. Că în locul de chinuri pe vrăjmași i-ați biruit și cu îndrăzneală pe Hristos L-ați propovăduit. Pe Dânsul, ca pe un Bun, rugați-L pentru noi, ca să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfintilor-20000-de-mucenici-din-nicomidia",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Tropar la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 4,
+   "podobie": "",
+   "text": "Nașterea Ta, Hristoase, Dumnezeul nostru, răsărit-a lumii lumina cunoștinței; că întru dânsa cei ce slujeau stelelor de la Stea s-au învățat să se închine Ție, Soarelui dreptății și să Te cunoască pe Tine, Răsăritul Cel de sus, Doamne, Slavă Ție!",
+   "sursa": "https://doxologia.ro/tropar-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților 20.000 de Mucenici din Nicomidia",
+   "glas": 2,
+   "podobie": "Pe propovăduitorii cei tari…",
+   "text": "Cu suflet tare prin foc pătimirea primind Sfinții pentru credință, douăzeci de mii de pătimitori au strigat Celui Născut din Fecioară: primește arderea cea de tot a noastră pentru Tine, ca și darurile împăraților din Persia: aur, smirnă și tămâie, Dumnezeule Cel Preaveșnic.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-20000-de-mucenici-din-nicomidia",
+   "principal": true
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condac la Praznicul Nașterii Domnului (Crăciunul)",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Fecioara astăzi, pe Cel mai presus de ființă naște și pământul peștera Celui Neapropiat aduce. Îngerii cu păstorii slavoslovesc și magii cu Steaua călătoresc. Că pentru noi s-a născut Prunc Tânăr, Dumnezeu, Cel mai înainte de veci.",
+   "sursa": "https://doxologia.ro/condac-la-praznicul-nasterii-domnului-craciunul",
+   "principal": true
+  },
+  {
+   "tip": "tropar",
+   "titlu": "Troparul Sfântului și Dreptului Iosif, Logodnicul Sfintei Fecioare Maria",
+   "glas": 2,
+   "podobie": "",
+   "text": "Binevestește Iosif lui David, Dumnezeiescului părinte, minunile: văzut-ai pe Fecioara născând; cu magii te-ai închinat; cu păstorii ai Slăvit și prin îngeri înștiințare ai primit. Roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
+   "sursa": "https://doxologia.ro/troparul-sfantului-dreptului-iosif-logodnicul-sfintei-fecioare-maria",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfântului și Dreptului Iosif, Logodnicul Sfintei Fecioare Maria",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "De veselie astăzi, Dumnezeiescul David se umple; și Dreptul Iosif împreună cu Iacob, laudă aduce; că luând cunună pentru înrudirea cu Hristos se bucură; și pe Cel Ce s-a născut în chip de negrăit pe pământ, Îl laudă și strigă: mântuiește, Îndurate, pe cei ce Te cinstesc pe Tine.",
+   "sursa": "https://doxologia.ro/condacul-sfantului-dreptului-iosif-logodnicul-sfintei-fecioare-maria",
+   "principal": false
+  },
+  {
+   "tip": "condac",
+   "titlu": "Condacul Sfinților 20.000 de Mucenici din Nicomidia",
+   "glas": 3,
+   "podobie": "Fecioara astăzi…",
+   "text": "Cu scutece, Doamne, pe cei vrednici, Bunule, îi sfințești mucenicește; unitu-Ți-ai prin suferințe, pe jertfitorul Tău; iar cerul Te-a arătat pe Tine prin stea; căci de Tine s-a arătat preot, mucenicul cel cu suflet mare.",
+   "sursa": "https://doxologia.ro/condacul-sfintilor-20000-de-mucenici-din-nicomidia-0",
+   "principal": false
+  }
+ ],
+ "verificat": true
+}
