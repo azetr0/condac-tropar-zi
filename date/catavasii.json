@@ -48,31 +48,33 @@
   "cruce": {
    "nume": "Catavasiile Crucii",
    "glas": 8,
-   "sursa": "Catavasier românesc (2000), catavasii la praznicele împărătești",
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 343–345",
+   "nota": "Se cântă: 24 august – 21 septembrie, 1–6 august și 13 august.",
    "cantari": {
-    "1": "Cruce însemnând Moise, cu toiagul, Marea Roșie o a despărțit lui Israel celui ce cu piciorul o a trecut; iar de-a curmezișul lovind-o, a împreunat-o împotriva carelor lui Faraon, înscriind deasupra nebiruita armă. Pentru aceasta, lui Hristos, Dumnezeul nostru, să-I cântăm, că S-a preaslăvit.",
-    "3": "Toiagul spre închipuirea tainei se primește, căci cu odrăslire a ales preot; iar Bisericii, celei mai înainte neroditoare, acum a înflorit lemnul Crucii, spre putere și spre întărire.",
-    "4": "Auzit-am, Doamne, taina rânduielii Tale, înțeles-am lucrurile Tale și am preaslăvit Dumnezeirea Ta.",
-    "5": "O, de trei ori fericite lemn, pe care s-a răstignit Hristos, Împăratul și Domnul. Prin care a căzut cel ce a înșelat cu lemnul, biruit fiind de Cel ce S-a pironit pe tine cu trupul, de Dumnezeu, Care dă pace sufletelor noastre.",
-    "6": "În pântecele fiarei celei din apă, Iona palmele întinzându-și în chipul Crucii, mântuitoarea Patimă mai înainte o a închipuit limurit, de unde a treia zi ieșind, a însemnat învierea cea mai presus de lume, a lui Hristos-Dumnezeu, Cel ce S-a răstignit cu trupul, și cu învierea cea de a treia zi lumea a luminat.",
-    "7": "Nebuna poruncă a tiranului celui păgân, pe popoare le-a tulburat, suflând cu îngrozire și cu hulă urâtă lui Dumnezeu; însă pe cei trei tineri nu i-a înfricoșat mânia cea de fiară, nici focul cel mistuitor; ci cu duh de rouă aducător, ce împotrivă răsufla, înăuntrul focului fiind, cântau: Prealăudate Dumnezeul părinților și al nostru, bine ești cuvântat.",
-    "8": "Binecuvântați, tineri, cei întocmai cu numărul Treimii, pe Făcătorul Dumnezeu-Părintele; lăudați pe Cuvântul cel ce S-a pogorât și focul în rouă l-a prefăcut; și preaînălțați pe Duhul cel Preasfânt, Care dă viață tuturor întru toți vecii.",
-    "9": "Rai de taină ești, Născătoare de Dumnezeu, care ai odrăslit nelucrat pe Hristos, prin Care lemnul Crucii, cel de viață purtător, în pământ a fost sădit. Pentru aceasta, acum înălțat fiind, închinându-ne lui, pe tine te mărim."
+    "1": "Cruce însemnând Moise de-a dreptul, cu toiagul, Marea Roșie a despărțit lui Israel, celui ce cu piciorul a trecut-o; iar de-a curmezișul lovind-o, a împreunat-o împotriva carelor lui Faraon, înscriind deasupra nebiruita armă. Pentru aceasta, lui Hristos, Dumnezeul nostru, să-I cântăm, că S-a preaslăvit.",
+    "3": "Toiagul spre închipuirea tainei se primește, că, prin odrăslire, a ales preot; iar acum Bisericii, celei mai înainte neroditoare, a înflorit lemnul Crucii, spre putere și spre întărire.",
+    "4": "Auzit-am, Doamne, taina rânduielii Tale, înțeles-am lucrurile Tale și am slăvit Dumnezeirea Ta.",
+    "5": "O, de trei ori fericite lemn, pe care S-a răstignit Hristos, Împăratul și Domnul; prin care a căzut cel ce a înșelat cu lemnul, biruit fiind de Cel ce S-a pironit pe tine cu trupul, de Dumnezeu, Cel ce dă pace sufletelor noastre!",
+    "6": "În pântecele fiarei celei din apă, Iona palmele întinzându-și în chipul Crucii, mântuitoarea Pătimire mai înainte a închipuit-o lămurit, de unde a treia zi ieșind, a însemnat Învierea cea mai presus de lume, a lui Hristos-Dumnezeu, Cel ce S-a răstignit cu trupul și, cu Învierea cea de a treia zi, lumea a luminat.",
+    "7": "Nebuna poruncă a tiranului celui păgân, pe popoare le-a tulburat, suflând cu îngrozire și cu hulă urâtă lui Dumnezeu; însă pe cei trei tineri nu i-a înfricoșat mânia cea de fiară, nici focul cel mistuitor, ci, cu duh de rouă aducător ce împotrivă sufla, înăuntrul focului fiind, cântau: Prealăudate Dumnezeul părinților și al nostru, binecuvântat ești!",
+    "8": "Binecuvântați, tineri, cei întocmai cu numărul Treimii, pe Făcătorul Dumnezeu-Părintele; lăudați pe Cuvântul, Cel ce S-a pogorât și focul în rouă l-a prefăcut; și preaînălțați pe Duhul Cel Preasfânt, Care dă viață tuturor întru toți vecii.",
+    "9": "Rai de taină ești, Născătoare de Dumnezeu, care ai odrăslit nelucrat pe Hristos, de Care pomul Crucii, cel de viață purtător, pe pământ a fost sădit. Pentru aceasta, acum înălțat fiind, închinându-ne lui, pe tine te mărim.\n\nȘi îndată, cealaltă Catavasie: Moartea ce a venit neamului omenesc prin gustarea din pom, astăzi prin Cruce s-a surpat; că blestemul strămoașei a tot neamul s-a dezlegat, prin odrasla curatei Maici a lui Dumnezeu, pe care toate puterile cerurilor o măresc."
    }
   },
   "adormire": {
    "nume": "Catavasiile Adormirii Maicii Domnului",
    "glas": 1,
-   "sursa": "Catavasier românesc (2000), catavasii la praznicele împărătești",
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 391–394",
+   "nota": "Se cântă: se cântă între 14 și 23 august.",
    "cantari": {
-    "1": "Cea împodobită cu dumnezeiasca mărire, sfințita și lăudata pomenirea ta, Fecioară, pe toți credincioșii la bucurie i-a adunat; și începând Mariam, cu timpane și cu hore, cântă Unuia-Născut al tău, căci cu slavă S-a preaslăvit.",
-    "3": "Cel ce ești făcător și cuprinzător a toate, Înțelepciunea și Puterea lui Dumnezeu, Hristoase, neclintită și nemișcată întărește Biserica, Cel ce însuți ești Sfânt, și întru sfinți Te odihnești.",
-    "4": "Graiurile proorocilor și preînchipuirile au proorocit întruparea Ta cea din Fecioară, Hristoase. Lumina strălucirii Tale întru lumina neamurilor va ieși, și va striga Ție adâncul cu veselie: Slavă puterii Tale, Iubitorule de oameni.",
-    "5": "Dumnezeiasca și negrăita frumusețe a bunătăților Tale, Hristoase, voi spune: că din veșnica mărire strălucire împreună-vecuitoare și ipostatnică luând, din pântece fecioresc întrupându-Te, celor din întuneric și din umbră le-ai răsărit ca un soare.",
-    "6": "Focul cel dinăuntru al chitului născut în luciul mării a fost închipuire a îngropării Tale celei de trei zile, al cărei prooroc Iona s-a arătat; că fiind izbăvit, precum s-a și spus mai înainte, nevătămat striga: Jertfi-voi Ție, cu glas de laudă, Doamne.",
-    "7": "Mâniei celei fără de rușine și focului, împotrivindu-se dumnezeiasca dragoste, focul adică l-a răcorit, iar de mânie și-a râs; prin vioara cea cuvântătoare de Dumnezeu însuflețită, care cu cele trei cântări ale sfinților, împotriva organelor de cântare ale păgânilor în mijlocul văpăii, a răsunat: Preaslăvite, Dumnezeul părinților și al nostru, bine ești cuvântat.",
-    "8": "Îngerul lui Dumnezeu cel preaputernic a arătat tinerilor văpaia răcorind pe cuvioși, iar pe cei necredincioși arzând; și pe Născătoarea de Dumnezeu o a făcut izvor de viață începător, stricare a morții și viață izvorând celor ce cântă: Pe Făcătorul singur să-L lăudăm cei izbăviți, și să-L preaînălțăm întru toți vecii.",
-    "9": "Biruiescu-se hotarele firii, întru tine, Curată Fecioară; că nașterea fecioreşte şi moartea arvunește viață. Ceea ce după naștere ești fecioară, iar după moarte vie, mântuiești pururea, Născătoare de Dumnezeu, moștenirea ta."
+    "1": "Cea împodobită cu dumnezeiasca mărire, sfințita și lăudata pomenirea ta, Fecioară, pe toți credincioșii la bucurie i-a adunat; și începând Mariam, cu timpane și cu hore, cântă Unuia-Născut al tău, căci cu slavă S-a preaslăvit.\n\nAlt irmos (glasul al 4-lea; se cântă la Utrenia din 15 august, împreună cu cele pe glasul 1): Deschide-voi gura mea și se va umple de Duh, și cuvânt răspunde-voi împărătesei Maici; și mă voi arăta luminat prăznuind, și voi cânta Adormirea ei, bucurându-mă.",
+    "3": "Cel ce ești făcător și cuprinzător a toate, Înțelepciunea și Puterea lui Dumnezeu, Hristoase, neclintită și nemișcată întărește Biserica, Cel ce însuți ești Sfânt, și întru Sfinți Te odihnești.\n\nAlt irmos (glasul al 4-lea; se cântă la Utrenia din 15 august, împreună cu cele pe glasul 1): Pe ai tăi cântăreți, Născătoare de Dumnezeu, izvorul cel viu și îndestulat, care s-au împreunat ceată duhovnicească, întărește-i și, întru dumnezeiasca Adormirea ta, cununilor slavei învrednicește-i.",
+    "4": "Graiurile Prorocilor și preînchipuirile au prorocit întruparea Ta cea din Fecioară, Hristoase. Lumina strălucirii Tale întru lumina neamurilor va ieși, și va striga Ție adâncul cu veselie: Slavă puterii Tale, Iubitorule de oameni!\n\nAlt irmos (glasul al 4-lea; se cântă la Utrenia din 15 august, împreună cu cele pe glasul 1): Sfatul cel neurmat și dumnezeiesc, al întrupării Tale celei de sus, celei din Fecioară, Prorocul Avacum avându-l în minte, a strigat: Slavă puterii Tale, Doamne!",
+    "5": "Dumnezeiasca și negrăita frumusețe a bunătăților Tale, Hristoase, voi spune: că din veșnica mărire strălucire împreună-vecuitoare și ipostatică luând, din pântece fecioresc întrupându-Te, celor din întuneric și din umbră le-ai răsărit ca un soare.\n\nAlt irmos (glasul al 4-lea; se cântă la Utrenia din 15 august, împreună cu cele pe glasul 1): Spăimântatu-s-au toate întru cinstită Adormirea ta; că tu, Fecioară neispitită de nuntă, de pe pământ te-ai mutat la veșnicele lăcașuri și la Viața cea fără de sfârșit; iar acum, tuturor celor ce te laudă mântuire le dăruiești, prin mijlocirile tale.",
+    "6": "Focul cel dinăuntru al chitului născut în luciul mării a fost închipuire a îngropării Tale celei de trei zile, al cărei Proroc Iona s-a arătat; că fiind izbăvit, precum s-a și spus mai înainte, nevătămat striga: Jertfi-voi Ție, cu glas de laudă, Doamne.\n\nAlt irmos (glasul al 4-lea; se cântă la Utrenia din 15 august, împreună cu cele pe glasul 1): Înțelepții de Dumnezeu, care faceți acest praznic dumnezeiesc și cu totul cinstit al Maicii lui Dumnezeu, veniți să batem din palme, slăvind pe Dumnezeu, Cel ce S-a născut dintr-însa.",
+    "7": "Mâniei celei fără de rușine și focului, împotrivindu-se dumnezeiasca dragoste, focul adică l-a răcorit, iar de mânie și-a râs; prin vioara cea cuvântătoare de Dumnezeu însuflețită, care cu cele trei cântări ale sfinților, împotriva organelor de cântare ale păgânilor în mijlocul văpăii, a răsunat: Preaslăvite, Dumnezeul părinților și al nostru, bine ești cuvântat.\n\nAlt irmos (glasul al 4-lea; se cântă la Utrenia din 15 august, împreună cu cele pe glasul 1): N-au slujit făpturii înțelepții de Dumnezeu, ci numai Făcătorului; ci groaza focului bărbătește înfruntând-o, se bucurau, cântând: Prealăudate Dumnezeul părinților noștri și Doamne, binecuvântat ești!",
+    "8": "Îngerul lui Dumnezeu cel preaputernic a arătat tinerilor văpaia răcorind pe cuvioși, iar pe cei necredincioși arzând; și pe Născătoarea de Dumnezeu o a făcut izvor de viață începător, stricare a morții și viață izvorând celor ce cântă: Pe Făcătorul singur să-L lăudăm cei izbăviți, și să-L preaînălțăm întru toți vecii.\n\nAlt irmos (glasul al 4-lea; se cântă la Utrenia din 15 august, împreună cu cele pe glasul 1): Pe tinerii cei binecredincioși, în cuptor, nașterea Născătoarei de Dumnezeu i-a mântuit, atunci fiind închipuită, iar acum, fiind plinită, pe toată lumea ridică să cânte: Pe Domnul, lucrurile, lăudați-L și-L preaînălțați întru toți vecii!",
+    "9": "Biruiescu-se hotarele firii, întru tine, Curată Fecioară, că nașterea te păzește fecioară și moartea arvunește viață. Ceea ce după naștere ești fecioară, iar după moarte vie, mântuiești pururea, Născătoare de Dumnezeu, moștenirea ta.\n\nAlt irmos (glasul al 4-lea; se cântă la Utrenia din 15 august, împreună cu cele pe glasul 1): Tot neamul pământesc să salte cu duhul, fiind luminat; și să prăznuiască firea minților celor fără de trup, cinstind sfânta Adormire a Maicii lui Dumnezeu, și să strige: Bucură-te, preafericită Născătoare de Dumnezeu, curată, pururea Fecioară!"
    }
   },
   "nastere": {
@@ -90,28 +92,230 @@
     "9": "Taină minunată și neobișnuită văd: cer fiind peștera, scaun de heruvimi Fecioara, ieslea sălășluire, întru care S-a culcat Cel neîncăput, Hristos-Dumnezeu, pe Care, lăudându-L Îl mărim."
    }
   },
+  "fiul_risipitor": {
+   "nume": "Catavasii la Duminica Fiului Risipitor",
+   "glas": 2,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 359–360",
+   "nota": "Se cântă: dacă s-a făcut Odovania Întâmpinării Domnului.",
+   "cantari": {
+    "1": "Cântarea lui Moise luând, suflete, strigă: Ajutor și acoperitor mi-a fost mie spre mântuire; Acesta este Dumnezeul meu și-L voi slăvi pe El.",
+    "3": "Mintea mea cea neroditoare, aducătoare de roadă arat-o, Dumnezeule, Lucrătorule al virtuților, Săditorule al celor bune, cu milostivirea Ta.",
+    "4": "Nașterea Ta din Fecioară, prorocul mai înainte văzând-o, a propovăduit strigând: Auzit-am glasul Tău și m-am temut; că de la miazăzi și din muntele cel sfânt și umbrit ai venit, Hristoase.",
+    "5": "Noaptea trecând, s-a apropiat ziua și lumina în lume a strălucit. Pentru aceasta, Te laudă cetele îngerești și Te slăvesc pe Tine, Hristoase Dumnezeule.",
+    "6": "Întru adâncul păcatelor sunt cuprins, Mântuitorule, și în marea vieții mă cufund; dar, precum ai scos pe Iona din chit, așa mă scoate și pe mine din patimi și mă mântuiește.",
+    "7": "Heruvimilor asemănându-se tinerii, în cuptor dănțuiau, strigând: Binecuvântat ești, Dumnezeule, că, în adevăr și judecată, ai adus asupră-ne acestea toate pentru păcatele noastre, Cel ce ești prealăudat și slăvit întru toți vecii.",
+    "8": "Pe Cel ce a închipuit mai înainte, în rug, lui Moise, minunea Fecioarei, în Muntele Sinai oarecând, lăudați-L, binecuvântați-L și-L preaînălțați întru toți vecii.",
+    "9": "Dintre pământeni cine a auzit una ca aceasta? Sau cine a văzut vreodată fecioară să se fi aflat având în pântece și, fără durere, să fi născut prunc? În acest chip este minunea ta și pe tine, preacurată Născătoare de Dumnezeu, Marie, te mărim."
+   }
+  },
+  "sambata_lasatului": {
+   "nume": "Catavasii la Sâmbăta Lăsatului sec de carne",
+   "glas": 8,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 360–362",
+   "nota": "Se cântă: dacă s-a făcut Odovania Întâmpinării Domnului.",
+   "cantari": {
+    "1": "Cântare să înălțăm, popoare, minunatului nostru Dumnezeu, Cel ce a izbăvit pe Israel din robie, cântare de biruință cântând și strigând: Să cântăm Ție, Cel ce ești singur Stăpân!",
+    "2": "Vedeți, vedeți că Eu sunt Dumnezeul vostru, Cel ce M-am născut mai înainte de veci din Tatăl și, mai pe urmă, din Fecioară M-am întrupat fără de bărbat și am dezlegat păcatul strămoșului Adam, ca un iubitor de oameni.",
+    "3": "Cuvântule al lui Dumnezeu, Cel ce ai întărit cerurile cu mâna Ta, întărește și inimile noastre, ale celor ce nădăjduim spre Tine, întru lumina cunoștinței Tale celei adevărate.",
+    "4": "Înțeles-a Prorocul, prin dumnezeiască vedenie, că aveai să Te întrupezi, Cuvântule, din muntele cel umbros, din singura Născătoare de Dumnezeu, și, cu frică, slăvea puterea Ta.",
+    "5": "Dis-de-dimineață aleargă duhul meu către Tine, Dumnezeule, pentru că lumină sunt poruncile venirii Tale; deci, cu acestea luminează mintea noastră, Stăpâne, și ne povățuiește pe calea vieții.",
+    "6": "Primește-mă pe mine, cel cuprins de păcate multe, Iubitorule de oameni, care cad la îndurările Tale, și, ca pe Prorocul, Doamne, mântuiește-mă.",
+    "7": "Cel ce ai întemeiat pământul întru început și cerurile prin cuvânt le-ai întărit, binecuvântat ești în veci, Doamne, Dumnezeul părinților noștri!",
+    "8": "Pe Domnul, Cel ce S-a preaslăvit în muntele cel sfânt și a arătat lui Moise, în rug, prin foc, taina purure-Fecioarei, lăudați-L și-L preaînălțați întru toți vecii!",
+    "9": "Nașterea pururea-Fecioarei, ce s-a arătat mai înainte legiuitorului în munte, prin foc și prin rug, spre mântuirea noastră, a credincioșilor, în cântări fără tăcere o mărim."
+   }
+  },
+  "duminica_lasatului": {
+   "nume": "Catavasii la Duminica Lăsatului sec de carne",
+   "glas": 6,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 362–363",
+   "nota": "Se cântă: dacă s-a făcut Odovania Întâmpinării Domnului.",
+   "cantari": {
+    "1": "Ajutor și acoperitor s-a făcut mie spre mântuire; Acesta este Dumnezeul meu și-L voi slăvi pe El, Dumnezeul părintelui meu și-L voi înălța pe El, căci cu slavă S-a preaslăvit.",
+    "3": "Întărește, Doamne, pe piatra poruncilor Tale, inima mea care se clatină, că singur ești sfânt și Domn.",
+    "4": "Auzit-a Prorocul de venirea Ta, Doamne, și s-a temut, că aveai să Te naști din Fecioară și oamenilor să Te arăți; și zicea: Auzit-am glasul Tău și m-am temut. Slavă puterii Tale, Doamne!",
+    "5": "Pe mine, cel ce dis-de-dimineață alerg la Tine, Iubitorule de oameni, te rog, luminează-mă și mă îndreptează și pe mine la poruncile Tale și mă învață pururea să fac voia Ta.",
+    "6": "Strigat-am cu toată inima mea către milostivul Dumnezeu și m-a auzit din iadul cel mai de jos și a scos din stricăciune viața mea.",
+    "7": "Greșit-am, fărădelege am făcut, nu ne-am îndreptat înaintea Ta, nici am păzit, nici am făcut precum ne-ai poruncit nouă; ci nu ne părăsi pe noi până în sfârșit, Dumnezeul părinților.",
+    "8": "Pe Cel pe Care Îl slăvesc oștile cerurilor și de Dânsul se înfricoșează Heruvimii și Serafimii, toată suflarea și făptura, lăudați-L, binecuvântați-L și-L preaînălțați întru toți vecii.",
+    "9": "Nașterea din zămislirea cea fără de sămânță este netâlcuită; Rodul Maicii celei fără de bărbat este nestricat, că Nașterea lui Dumnezeu înnoiește firile. Pentru aceasta, pe tine, toate neamurile, ca pe o Maică Mireasă a lui Dumnezeu, cu dreaptă credință te mărim."
+   }
+  },
+  "sambata_branzei": {
+   "nume": "Catavasii la Sâmbăta Lăsatului sec de brânză, a Sfinților Cuvioși",
+   "glas": 8,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 364–365",
+   "cantari": {
+    "1": "Cântare să înălțăm, popoare, minunatului nostru Dumnezeu, Cel ce a izbăvit pe Israel din robie, cântare de biruință cântând și strigând: Să cântăm Ție, Cel ce ești singur Stăpân!",
+    "2": "Vedeți, vedeți că Eu sunt Dumnezeul vostru, Cel ce M-am născut mai înainte de veci din Tatăl și, mai pe urmă, din Fecioară M-am întrupat fără de bărbat și am dezlegat păcatul strămoșului Adam, ca un iubitor de oameni.",
+    "3": "Nu este sfânt ca Domnul și nu este drept ca Dumnezeul nostru, pe Care Îl laudă toată făptura, și nu este sfânt afară de Tine, Doamne, iubitorule de oameni.",
+    "4": "Înțeles-a Prorocul, prin dumnezeiască vedenie, că aveai să Te întrupezi, Cuvântule, din muntele cel umbros, din singura Născătoare de Dumnezeu, și, cu frică, slăvea puterea Ta.",
+    "5": "Din negura patimilor, ca dintr-o noapte preaadâncă, răscumpără-mă și, te rog, învrednicește duhul meu să alerge dis-de-dimineață la lumina zilei poruncilor Tale, Hristoase.",
+    "6": "Primește-mă pe mine, cel cuprins de păcate multe, Iubitorule de oameni, care cad la îndurările Tale, și, ca pe Prorocul, Doamne, mântuiește-mă.",
+    "7": "Cel ce ai răcorit pe tineri în cuptor și pe ceea ce Te-a născut ai păzit-o fecioară după naștere, binecuvântat ești, Doamne, Dumnezeul părinților noștri.",
+    "8": "Pe Domnul, Cel ce S-a preaslăvit în muntele cel sfânt și a arătat lui Moise, în rug, prin foc, taina pururea-Fecioarei, lăudați-L și-L preaînălțați întru toți vecii!",
+    "9": "Nașterea pururea-Fecioarei, ce s-a arătat mai înainte legiuitorului în munte, prin foc și prin rug, spre mântuirea noastră, a credincioșilor, în cântări fără tăcere o mărim."
+   }
+  },
+  "duminica_branzei": {
+   "nume": "Catavasii la Duminica Lăsatului sec de brânză și în Sâmbăta dinaintea Cincizecimii",
+   "glas": 6,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 366–368",
+   "cantari": {
+    "1": "Ca pe uscat umblând Israel, cu urmele prin adânc, pe prigonitorul faraon văzându-l înecat, a strigat: Lui Dumnezeu cântare de biruință să-I cântăm!",
+    "3": "Nu este sfânt precum Tu, Doamne, Dumnezeul meu, Care ai înălțat fruntea credincioșilor Tăi, Bunule, și ne-ai întărit pe noi pe piatra mărturisirii Tale.",
+    "4": "Hristos este puterea mea, Dumnezeu și Domnul! cântă, strigând, cinstita Biserică, întru cuviință dumnezeiască, din cuget curat, prăznuind întru Domnul.",
+    "5": "Cu dumnezeiască strălucirea Ta, Bunule, sufletele celor ce dis-de-dimineață aleargă la Tine cu dragoste, Te rog, luminează-le, ca să Te vadă, Cuvântule al lui Dumnezeu, pe Tine, adevăratul Dumnezeu, Cel ce chemi din negura greșelilor!",
+    "6": "Marea vieții văzând-o înălțându-se de viforul ispitelor, la limanul Tău cel lin alergând, strig Ție: Scoate din stricăciune viața mea, mult Milostive!",
+    "7": "Dătător de rouă cuptorul l-a făcut Îngerul cuvioșilor tineri; iar pe haldei arzând-i porunca lui Dumnezeu, pe tiran l-a plecat a striga: Binecuvântat ești, Dumnezeul părinților noștri!",
+    "8": "În Duminica brânzei: Din văpaie cuvioșilor rouă a izvorât și jertfa dreptului cu apă ai ars, că toate le faci, Hristoase, numai cu voia; pe Tine Te preaînălțăm întru toți vecii.\n\nÎn Sâmbăta dinaintea Cincizecimii: Spăimântează-te înfricoșându-te, cerule, și să se cutremure temeliile pământului! Că, iată, Cel ce locuiește întru cele înalte este socotit între cei morți și Își găsește lăcaș într-un mic mormânt; pe Acesta, tineri, binecuvântați-L; preoți, lăudați-L; popoare, preaînălțați-L întru toți vecii!",
+    "9": "În Duminica brânzei: Pe Dumnezeu a-L vedea nu este cu putință oamenilor, spre Care nu cutează a căuta cetele îngerești; iar prin tine, Preacurată, S-a arătat oamenilor Cuvântul întrupat, pe Care mărindu-L cu oștile cerești, pe tine te fericim.\n\nÎn Sâmbăta dinaintea Cincizecimii: Nu izbutește nicio limbă a te lăuda după vrednicie, ci se întunecă și mintea cea mai presus de lume să cânte ție, de Dumnezeu Născătoare. Însă, fiind bună, primește credința; că știi dumnezeiasca noastră dragoste; că tu creștinilor ești ocrotitoare, pe tine te mărim."
+   }
+  },
+  "duminica_1_post": {
+   "nume": "Catavasii la Duminica întâi din Postul Mare, a Ortodoxiei",
+   "glas": 4,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 368–369",
+   "cantari": {
+    "1": "Adâncul Mării Roșii cu urme neudate pedestru trecându-l Israel cel de demult, cu mâinile lui Moise în chipul Crucii, puterea lui Amalec în pustie a biruit.",
+    "3": "Se veselește de Tine Biserica Ta, Hristoase, strigând: Tu ești puterea mea, Doamne, și scăparea și întărirea.",
+    "4": "Ridicat pe Cruce văzându-Te Biserica pe Tine, Soarele dreptății, a stat întru a sa rânduială, precum se cuvine, strigând: Slavă puterii Tale, Doamne!",
+    "5": "Tu, Doamne, Lumina mea, în lume ai venit, Lumină sfântă, Care întorci din întunericul necunoștinței pe cei ce Te laudă cu credință.",
+    "6": "Jertfi-voi Ție cu glas de laudă, Doamne! Strigă către Tine Biserica, de sângele jertfit demonilor curățindu-se, cu Sângele cel curs, prin milostivire, din coasta Ta.",
+    "7": "În cuptorul persienesc, tinerii lui Avraam, cu dorirea dreptei credințe, mai mult decât văpaia focului fiind aprinși, au strigat: Binecuvântat ești în biserica slavei Tale, Doamne!",
+    "8": "Mâinile întinzându-și Daniel, gurile leilor cele deschise, în groapă, le-a încuiat, și puterea focului au stins, cu fapta bună încingându-se, tinerii cei iubitori de dreaptă credință, strigând: Binecuvântați, toate lucrurile Domnului, pe Domnul!",
+    "9": "Hristos, Piatra cea netăiată de mână, cea din capul unghiului, din tine, muntele cel netăiat, Fecioară, S-a tăiat, unind firile cele osebite; pentru aceasta, veselindu-ne, pe tine, Născătoare de Dumnezeu, te mărim."
+   }
+  },
+  "duminica_3_post": {
+   "nume": "Catavasii la Duminica a treia din Postul Mare, a Sfintei Cruci",
+   "glas": 1,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 370–371",
+   "cantari": {
+    "1": "Dumnezeiescul Moise a însemnat mai înainte, de demult, în Marea Roșie Crucea Ta, când a trecut pe Israel, tăind marea cu toiagul, cântându-Ți cântare de ieșire, Hristoase Dumnezeule.",
+    "3": "Întărește-mă, Stăpâne Hristoase, cu Crucea Ta, pe piatra credinței, ca să nu se clatine gândul meu de năvălirile vrăjmașului celui rău; că Tu singur ești sfânt.",
+    "4": "Pe Cruce văzându-Te pe Tine, Puternice, luminătorul cel mare de cutremur fiind cuprins, și-a strâns și și-a ascuns razele; iar toată zidirea a lăudat cu frică îndelunga Ta răbdare, că s-a umplut pământul de lauda Ta.",
+    "5": "Dis-de-dimineață Te lăudăm pe Tine, Mântuitorul lumii, aflând pace prin Crucea Ta, prin care ai înnoit neamul omenesc, ducându-ne către lumina cea neînserată.",
+    "6": "Chipul dumnezeieștii Cruci, Iona mai înainte l-a însemnat, în pântecele chitului, prin palmele întinse, și a ieșit din fiară, mântuindu-se cu puterea Ta, Cuvântule.",
+    "7": "Cel ce a izbăvit pe tineri din văpaie a venit pe pământ luând trup și, pe Cruce pironindu-Se, mântuire ne-a dăruit nouă, Cel singur binecuvântat, Dumnezeul părinților și preaslăvit.",
+    "8": "În groapa leilor aruncat fiind oarecând marele între Proroci Daniel, mâinile în chipul Crucii întinzându-și, nevătămat s-a păzit de a fi mâncare lor, binecuvântând pe Hristos Dumnezeu în veci.",
+    "9": "O, Maică Fecioară și adevărată Născătoare de Dumnezeu, ceea ce ai născut fără sămânță pe Hristos, Dumnezeul nostru, Cel ce S-a înălțat cu trupul pe Cruce, pe tine toți credincioșii, împreună cu Dânsul, te mărim acum după vrednicie."
+   }
+  },
+  "lazar": {
+   "nume": "Catavasii la Sâmbăta lui Lazăr",
+   "glas": 8,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 371–373",
+   "cantari": {
+    "1": "Apa trecând-o ca pe uscat și, din răutatea egiptenilor scăpând, israeliteanul striga: Izbăvitorului și Dumnezeului nostru să-I cântăm!",
+    "3": "Doamne, Cel ce ai făcut cele de deasupra bolții cerești și ai zidit Biserica, Tu pe mine mă întărește în dragostea Ta, că Tu ești culmea dorințelor și credincioșilor întărire, unule iubitorule de oameni.",
+    "4": "Tu ești întărirea mea, Doamne, Tu și puterea mea, Tu, Dumnezeul meu, Tu, bucuria mea, Cel ce n-ai lăsat sânurile părintești și a noastră sărăcie ai cercetat-o. Pentru aceasta, cu Prorocul Avacum strig către Tine: Slavă puterii Tale, Iubitorule de oameni!",
+    "5": "Pentru ce m-ai lepădat de la fața Ta, Cel ce ești Lumină neapusă, și m-a acoperit întunericul cel străin pe mine, ticălosul? Ci, Te rog, mă întoarce și la lumina poruncilor Tale îndreptează căile mele.",
+    "6": "Curățește-mă, Mântuitorule, că multe sunt fărădelegile mele și, Te rog, ridică-mă din adâncul răutăților, căci către Tine am strigat; și mă auzi, Dumnezeul mântuirii mele.",
+    "7": "Tinerii, cei ce merseseră din Iudeea în Babilon oarecând, cu credința Treimii, văpaia cuptorului au călcat-o, cântând: Dumnezeul părinților noștri, binecuvântat ești!",
+    "8": "Pe Împăratul cerurilor, pe Care Îl laudă oștile îngerești, lăudați-L și-L preaînălțați întru toți vecii!",
+    "9": "Cu adevărat, Născătoare de Dumnezeu te mărturisim pe tine, Fecioară curată, noi, cei mântuiți prin tine, mărindu-te cu cetele celor fără de trup."
+   }
+  },
+  "florii": {
+   "nume": "Catavasiile Floriilor",
+   "glas": 4,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 373–374",
+   "cantari": {
+    "1": "Arătatu-s-au ale adâncului izvoare, umejunii neîmpărtășite, și s-au descoperit temeliile mării celei învăluite de vifor; căci cu voia ai certat-o și pe poporul cel ales l-ai mântuit, cel ce-Ți cântă cântare de biruință, Doamne.",
+    "3": "Din piatra cea vârtoasă și tare, care a izvorât la porunca Ta, adăpatu-s-a poporul israelitenilor; iar piatra Tu ești, Hristoase, și Viața, întru Care s-a întărit Biserica, strigând: Osana! Binecuvântat ești, Cel ce vii!",
+    "4": "Hristos, Dumnezeul nostru, Cel ce vine în chip văzut, veni-va și nu va zăbovi din muntele cel cu umbra deasă, din Fecioara care a născut neispitită de bărbat, precum a zis prorocul de demult. Pentru aceasta, toți strigăm: Slavă puterii Tale, Doamne!",
+    "5": "Pe muntele Sionului suie-Te, Cel ce binevestești, și propovăduiește Ierusalimului; înalță-Ți glasul cu tărie; preamărite s-au grăit de Tine, Cetatea lui Dumnezeu; pace lui Israel și mântuire neamurilor.",
+    "6": "Strigat-au cu veselie duhurile drepților: Acum lumii așezământ nou se rânduiește, și cu stropirea dumnezeiescului sânge să se înnoiască poporul.",
+    "7": "Cel ce ai mântuit în foc pe tinerii lui Avraam și ai ucis pe haldei, care fără dreptate vânau pe cei drepți, Prealăudate Doamne, Dumnezeul părinților, binecuvântat ești!",
+    "8": "Veselește-te, Ierusalime, prăznuiți cei ce iubiți Sionul; că a venit Domnul puterilor, Cel ce împărățește în veci. Să se smerească tot pământul de fața Lui și să strige: Toate lucrurile lăudați pe Domnul.",
+    "9": "Dumnezeu este Domnul și S-a arătat nouă; tocmiți prăznuire și, bucurându-ne, veniți să mărim pe Hristos, cu ramuri și cu stâlpări și cu cântări, strigând: Binecuvântat este Cel ce vine întru numele Domnului, Mântuitorul nostru!"
+   }
+  },
+  "pasti": {
+   "nume": "Catavasiile și Canonul Paștilor",
+   "glas": 1,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 375–380",
+   "nota": "Se cântă: se cântă de la Paști până la Înălțarea Domnului, cu excepția Înjumătățirii Cincizecimii, a Odovaniei ei și a Duminicii Orbului.",
+   "cantari": {
+    "1": "Ziua Învierii, să ne luminăm, popoare, Paștile Domnului, Paștile. Că din moarte la viață și de pe pământ la cer Hristos-Dumnezeu ne-a trecut pe noi, cei ce cântăm cântare de biruință.",
+    "3": "Veniți să bem băutură nouă, nu din piatră seacă făcută cu minuni, ci din Izvorul nestricăciunii, Cel izvorât din mormântul lui Hristos, întru Care ne întărim.",
+    "4": "La dumnezeiasca strajă, de Dumnezeu grăitorul Avacum să stea împreună cu noi și să arate pe Îngerul cel purtător de lumină, care a grăit cu mare glas: Astăzi este mântuirea lumii, că a înviat Hristos ca Cel Atotputernic.",
+    "5": "Să alergăm dis-de-dimineață și, în loc de mir, cântare să aducem Stăpânului; și să vedem pe Hristos, Soarele Dreptății, tuturor viață răsărind.",
+    "6": "Pogorâtu-Te-ai întru cele mai de jos ale pământului și ai sfărâmat încuietorile cele veșnice, care țineau pe cei legați, Hristoase; iar a treia zi, ca și Iona din chit, ai înviat din mormânt.",
+    "7": "Cel ce a izbăvit pe tineri din cuptor, făcându-Se om, pătimește ca un muritor; și prin patimă pe cel muritor îl îmbracă în podoaba nestricăciunii, Cel unul binecuvântat, Dumnezeul părinților noștri și preaslăvit.",
+    "8": "Această aleasă și sfântă zi, cea dintâi a săptămânii, împărăteasă și doamnă, praznic al praznicelor este și sărbătoare a sărbătorilor, întru care binecuvântăm pe Hristos în veci.",
+    "9": "Luminează-te, luminează-te, noule Ierusalime, că slava Domnului peste tine a răsărit. Saltă acum și te bucură, Sioane; iar tu, curată Născătoare de Dumnezeu, veselește-te întru Învierea Celui născut al tău."
+   }
+  },
+  "injumatatire": {
+   "nume": "Catavasiile Înjumătățirii Cincizecimii",
+   "glas": 8,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 383–384",
+   "nota": "Se cântă: se cântă în miercurea săptămânii a patra după Paști și la Odovanie, în miercurea săptămânii a cincea după Paști.",
+   "cantari": {
+    "1": "Marea ai împreunat-o, înecând oarecând pe trufașul faraon, cu carele de război, și pe popor neudat l-ai izbăvit, Doamne, și l-ai dus în muntele cel sfânt, cântând Ție: Cântare de biruință vom cânta Ție, Dumnezeului nostru Celui tare în războaie!",
+    "3": "Întăritu-s-a inima mea în Domnul; înălțatu-s-a fruntea mea întru Dumnezeul meu; lărgitu-s-a gura mea asupra vrăjmașilor mei; veselitu-m-am de mântuirea Ta.",
+    "4": "Prorocul Avacum, cu ochii minții, a văzut mai înainte venirea Ta, Doamne; pentru aceasta a și grăit: Din Teman va veni Domnul. Slavă slavei Tale, Hristoase! Slavă pogorârii Tale!",
+    "5": "Doamne, Dumnezeul nostru, pace dă-ne nouă. Doamne, Dumnezeul nostru, ia-ne pe noi în stăpânirea Ta. Doamne, pe altul afară de Tine nu știm, numele Tău numim.",
+    "6": "Ca apele mării mă învăluiesc valurile vieții, Iubitorule de oameni. Pentru aceasta, strig ca Iona către Tine, Cuvântule: Scoate din stricăciune viața mea, milostive Doamne!",
+    "7": "Cuptorul haldeilor, cel plin cu flăcări de foc, s-a răcorit prin Duhul, cu purtarea de grijă a lui Dumnezeu, iar tinerii au cântat: Binecuvântat ești, Dumnezeul părinților noștri!",
+    "8": "Pe Cel ce Se poartă pe tronul slavei și, ca un Dumnezeu, este slăvit neîncetat, Îngeri și ceruri binecuvântați-L și-L preaînălțați întru toți vecii!",
+    "9": "Străin lucru este mamelor fecioria, străină este și fecioarelor nașterea de fii; dar întru tine, Născătoare de Dumnezeu, amândouă s-au rânduit. Pentru aceasta, toate semințiile pământului pe tine neîncetat te mărim."
+   }
+  },
+  "inaltare": {
+   "nume": "Catavasiile Înălțării Domnului",
+   "glas": 5,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 384–386",
+   "nota": "Se cântă: se cântă în Duminica Orbului și următoarele două zile.",
+   "cantari": {
+    "1": "Mântuitorului Dumnezeu, Celui ce a călăuzit pe popor prin mare, cu picioare neudate, și a înecat pe faraon cu toată oastea, Aceluia singur să-I cântăm, că S-a preaslăvit.",
+    "3": "Cu puterea Crucii Tale, Hristoase, întărește mintea mea, ca să laud și să slăvesc Înălțarea Ta cea mântuitoare.",
+    "4": "Auzit-am, Doamne, glasul puterii Crucii Tale, că Raiul s-a deschis prin ea, și am grăit: Slavă puterii Tale, Doamne!",
+    "5": "Dis-de-dimineață sculându-ne, strigăm Ție, Doamne: Mântuiește-ne pe noi, că Tu ești Dumnezeul nostru; afară de Tine pe altul nu știm.",
+    "6": "Înconjuratu-m-a adâncul, mormânt s-a făcut mie chitul, iar eu am strigat către Tine, Iubitorule de oameni, și dreapta Ta m-a mântuit, Doamne.",
+    "7": "Cel ce ai mântuit, în cuptorul cel cu foc, pe tinerii cei ce-Ți înălțau cântare, binecuvântat ești, Dumnezeul părinților noștri!",
+    "8": "Pe Fiul și Dumnezeu, Cel născut din Tatăl mai înainte de veci, Care S-a întrupat din Fecioara Maică, în anii cei mai de pe urmă, preoți, lăudați-L, popoare, preaînălțați-L întru toți vecii!",
+    "9": "Pe tine, Maica lui Dumnezeu, care, mai presus de minte și de cuvânt, ai născut, în chip de negrăit, sub ani pe cel fără de ani, credincioșii cu un gând te mărim."
+   }
+  },
+  "rusalii": {
+   "nume": "Catavasiile Pogorârii Sfântului Duh",
+   "glas": 4,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 386–389",
+   "nota": "Se cântă: se cântă din Joia Înălțării până în sâmbăta Odovaniei Cincizecimii.",
+   "cantari": {
+    "1": "Glasul al 7-lea (înaintea celui de mai jos, numai în Duminica Cincizecimii și la Sfânta Treime): Cu marea a acoperit pe faraon, cu carele lui de război, Cel ce sfărâmă războaiele cu braț înalt; Acestuia să-I cântăm, că S-a preaslăvit.\n\nGlasul al 4-lea: Cu dumnezeiescul nor acoperit fiind gângavul, a cuvântat despre Legea cea scrisă de Dumnezeu; că scuturând tina de pe ochii minții, vede pe Cel ce este și se luminează în cunoașterea Duhului, lăudând cu dumnezeiești cântări.",
+    "3": "Glasul al 7-lea (înaintea celui de mai jos, numai în Duminica Cincizecimii și la Sfânta Treime): Zis-ai ucenicilor, Hristoase: Rămâneți în Ierusalim până ce vă veți îmbrăca cu putere de sus, iar Eu vă voi trimite alt Mângâietor, ca Mine, pe Duhul Meu și al Tatălui, în Care vă veți întări.\n\nGlasul al 4-lea: Rupt-a legăturile pântecelui celui sterp, și ocara cea greu de răbdat a celei bineroditoare, numai rugăciunea prorocitei Ana, de demult, a celei purtătoare de duh umilit, către Cel Atotputernic și Dumnezeul cunoștințelor.",
+    "4": "Glasul al 7-lea (înaintea celui de mai jos, numai în Duminica Cincizecimii și la Sfânta Treime): Înțelegând Prorocul venirea Ta cea mai de pe urmă, Hristoase, grăia: Auzit-am, Doamne, puterea Ta, că ai venit să mântuiești pe unșii Tăi.\n\nGlasul al 4-lea: Împărate al împăraților, Unule dintru Unul singur, Cuvinte, Cel ce ai ieșit din Tatăl cel nepricinuit, pe Duhul Tău cel adevărat, Cel întocmai puternic, Făcător de bine, L-ai trimis Apostolilor celor ce cântă: Slavă puterii Tale, Doamne.",
+    "5": "Glasul al 7-lea (înaintea celui de mai jos, numai în Duminica Cincizecimii și la Sfânta Treime): Duhul mântuirii, care S-a zămislit în pântecele Prorocilor plini de frica Ta, Doamne, și S-a născut pe pământ, zidește inimi apostolești curate și în cei credincioși drept se înnoiește; că poruncile Tale sunt lumină și pace.\n\nGlasul al 4-lea: O, fii cu chipuri luminate ai Bisericii! Primiți curățire izbăvitoare de păcate, roua Duhului cea de foc insuflată. Că acum din Sion a ieșit Legea, harul Duhului, cel în chip de limbi de foc.",
+    "6": "Glasul al 7-lea (înaintea celui de mai jos, numai în Duminica Cincizecimii și la Sfânta Treime): Afundându-mă împreună cu păcatele ce plutesc cu mine, în vâltoarea valurilor grijilor lumești, și împins fiind spre fiara cea pierzătoare de suflet, cu Iona strig Ție, Hristoase: Din adâncul cel purtător de moarte, scoate-mă!\n\nGlasul al 4-lea: Curățire și mântuire, Hristoase, Stăpâne, ne-ai strălucit nouă, din Fecioara; că precum pe Prorocul Iona, din pântecele fiarei celei din mare întreg l-ai scos, așa să scoți din stricăciune pe Adam cel căzut, cu tot neamul.",
+    "7": "Glasul al 7-lea (înaintea celui de mai jos, numai în Duminica Cincizecimii și la Sfânta Treime): În cuptorul cel cu foc aruncați fiind cuvioșii tineri, focul în rouă l-au prefăcut, prin cântare strigând așa: Binecuvântat ești Doamne, Dumnezeul părinților noștri!\n\nGlasul al 4-lea: Cu un glas a răsunat viersul organelor, spre a cinsti pe idolul cel făcut din aur și neînsuflețit; iar harul Cel purtător de lumină al Mângâietorului ne îndeamnă să strigăm cu evlavie: Treime una, deopotrivă puternică și fără de început, binecuvântată ești!",
+    "8": "Glasul al 7-lea (înaintea celui de mai jos, numai în Duminica Cincizecimii și la Sfânta Treime): Rugul cel nears, împreunându-se cu focul în Sinai, a făcut cunoscut pe Dumnezeu lui Moise, celui zăbavnic la limbă și gângav, și pe cei trei tineri cântăreți, râvna pentru Dumnezeu i-a arătat nestricați de foc. Toate făpturile pe Domnul lăudați-L și-L preaînălțați întru toți vecii.\n\nGlasul al 4-lea: Chipul cel cu trei străluciri al dumnezeieștii Stăpâniri dezleagă legăturile și răcorește văpaia. Tinerii cântă și toată făptura cea zidită binecuvintează pe Unul Mântuitorul și a toate Ziditorul, ca pe un Făcător de bine.",
+    "9": "Glasul al 7-lea (înaintea celui de mai jos, numai în Duminica Cincizecimii și la Sfânta Treime): Ceea ce nu prin ispitire trupească ai purtat în pântece și ai împrumutat trup Cuvântului Celui făcător a toate, Maică ce nu știi de bărbat, Fecioară Născătoare de Dumnezeu, lăcașul Celui necuprins, încăperea Făcătorului tău Celui nemărginit, pe tine te mărim.\n\nGlasul al 4-lea: Bucură-te, Împărăteasă, lauda maicilor și a fecioarelor, că toată gura cea limpede bine-grăitoare, vorbind, nu te poate cânta după cuviință; și orice minte e neputincioasă să priceapă nașterea ta. Pentru aceasta, cu un glas pe tine te mărim."
+   }
+  },
+  "schimbare": {
+   "nume": "Catavasiile Schimbării la Față",
+   "glas": 4,
+   "sursa": "Catavasier (ediția 2017), Catavasiile de peste an, p. 389–390",
+   "nota": "Se cântă: se cântă între 7 și 12 august.",
+   "cantari": {
+    "1": "Cetele lui Israel, cu picioare neudate trecând Marea Roșie și adâncul cel umed, pe căpeteniile călăreților vrăjmași văzându-i în aceasta cufundați, cu bucurie cântau: Să cântăm Dumnezeului nostru, că S-a preaslăvit!",
+    "3": "Arcul celor puternici a slăbit și cei neputincioși s-au încins cu putere; pentru aceasta, s-a întărit întru Domnul inima mea.",
+    "4": "Auzit-am slăvită rânduiala Ta, Hristoase Dumnezeule, că Te-ai născut din Fecioară ca să mântuiești din rătăcire pe cei ce cântă Ție: Slavă puterii Tale, Doamne!",
+    "5": "Cel ce ai brăzdat cu lumină adâncul cel întâi zidit, precum în lumină Te laudă pe Tine lucrurile ca pe Ziditorul, Hristoase, în lumina Ta, îndreptează căile noastre.",
+    "6": "Când m-am necăjit, am strigat către Domnul și m-a auzit Dumnezeul mântuirii mele.",
+    "7": "Tinerii lui Avraam oarecând, în Babilon, văpaia cuptorului au călcat-o, cu laude cântând: Dumnezeul părinților noștri, binecuvântat ești!",
+    "8": "Tinerii în Babilon, cu dumnezeiască râvnă fiind aprinși, îngrozirea tiranului și a văpăii bărbătește au călcat-o și, în mijlocul focului fiind aruncați, rourându-se cântau: Binecuvântați, toate lucrurile Domnului, pe Domnul!",
+    "9": "Nașterea ta nestricată s-a arătat; Dumnezeu din coapsele tale a ieșit și S-a arătat purtător de trup pe pământ și cu oamenii a viețuit; pentru aceasta, pe tine, Născătoare de Dumnezeu, toți te mărim."
+   }
+  },
   "triod": {
    "nume": "Catavasiile din Triod",
    "glas": null,
    "nota": "Sunt arătate în Triod, la fiecare duminică.",
-   "cantari": {}
-  },
-  "pasti": {
-   "nume": "Catavasiile Paștilor: „Ziua Învierii…”",
-   "glas": 1,
-   "nota": "Se află în Penticostar.",
-   "cantari": {}
-  },
-  "inaltare": {
-   "nume": "Catavasiile Înălțării Domnului: „Mântuitorului Dumnezeu…”",
-   "glas": 5,
-   "nota": "Se află în Penticostar.",
-   "cantari": {}
-  },
-  "rusalii": {
-   "nume": "Catavasiile Rusaliilor: „Cu dumnezeiescul nor…”",
-   "glas": 4,
-   "nota": "Irmoasele canonului al doilea al Duminicii Mari; se află în Penticostar.",
    "cantari": {}
   }
  }
